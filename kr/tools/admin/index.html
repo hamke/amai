@@ -1,77 +1,153 @@
 <!DOCTYPE html>
 <html lang="ko">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="robots" content="noindex, nofollow">
     <title>AutoMoney AI Admin</title>
     <script src="https://cdn.tailwindcss.com"></script>
-  </head>
-  <body class="bg-gray-100 min-h-screen p-8">
-    <h1 class="text-3xl text-center font-bold mb-8">AutoMoney AI Admin</h1>
+    <style>
+        .search-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 640px;
+        }
+
+        #clearBtn {
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+            color: #999;
+            display: none;
+            user-select: none;
+        }
+
+        #clearBtn:hover {
+            color: #333;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 min-h-screen p-8">
+    <h1 class="text-3xl text-center font-bold mb-4">AutoMoney AI Admin</h1>
+
+    <div class="flex justify-center mb-6">
+        <div class="search-wrapper w-full">
+            <input type="text" id="searchInput" placeholder="Input a keyword ..."
+                class="border rounded p-2 w-full pr-8" />
+            <span id="clearBtn" title="Clear search">X</span>
+        </div>
+        <button id="searchButton" class="ml-2 bg-blue-600 text-white px-4 rounded hover:bg-blue-700">
+            Search
+        </button>
+    </div>
 
     <div id="dashboard"></div>
 
-    <script src="./services.js"></script>
+    <script src="./assets/js/data.js"></script>
 
     <script>
-      const domainType =
-        location.hostname === "localhost" ? "url_localhost" : "url_external";
+        const domainType = location.hostname === "localhost" ? "url_localhost" : "url_external";
+        const dashboard = document.getElementById("dashboard");
+        const searchInput = document.getElementById("searchInput");
+        const searchButton = document.getElementById("searchButton");
+        const clearBtn = document.getElementById("clearBtn");
 
-      const dashboard = document.getElementById("dashboard");
+        function renderDashboard(filterText = "") {
+            dashboard.innerHTML = "";
 
-      const categories = [...new Set(services.map((s) => s.category))];
+            const filteredServices = filterText
+                ? services.filter(s => s.name.toLowerCase().includes(filterText.toLowerCase()))
+                : services;
 
-      categories.forEach((category) => {
-        const section = document.createElement("section");
-        section.className = "mb-12";
+            const categories = [...new Set(filteredServices.map(s => s.category))];
 
-        const title = document.createElement("h2");
-        title.className = "text-xl font-semibold mb-4";
-        title.textContent = category;
+            categories.forEach(category => {
+                const section = document.createElement("section");
+                section.className = "mb-12";
 
-        const grid = document.createElement("div");
-        grid.className = "grid grid-cols-1 md:grid-cols-3 gap-4";
+                const title = document.createElement("h2");
+                title.className = "text-xl font-semibold mb-4";
+                title.textContent = category;
 
-        services
-          .filter((s) => s.category === category)
-          .forEach((service) => {
-            const card = document.createElement("div");
-            card.className =
-              "border p-4 rounded shadow hover:shadow-lg bg-white";
+                const grid = document.createElement("div");
+                grid.className = "grid grid-cols-1 md:grid-cols-3 gap-4";
 
-            const h3 = document.createElement("h3");
-            h3.className = "text-lg font-bold mb-2";
-            h3.textContent = service.name;
+                filteredServices
+                    .filter(s => s.category === category)
+                    .forEach(service => {
+                        const card = document.createElement("div");
+                        card.className = "border p-4 rounded shadow hover:shadow-lg bg-white";
 
-            const linkList = document.createElement("ul");
-            linkList.className = "space-y-1";
+                        const h3 = document.createElement("h3");
+                        h3.className = "text-lg font-bold mb-2";
+                        h3.textContent = service.name;
 
-            for (const [linkType, links] of Object.entries(service.links)) {
-              links.forEach((link) => {
-                const li = document.createElement("li");
+                        const linkList = document.createElement("ul");
+                        linkList.className = "space-y-1";
 
-                const a = document.createElement("a");
-                a.href = link[domainType];
-                a.textContent = `${linkType}`;
-                a.className =
-                  "text-blue-600 hover:underline text-sm inline-block";
-                a.target = "_blank";
+                        for (const [linkType, links] of Object.entries(service.links)) {
+                            links.forEach(link => {
+                                const li = document.createElement("li");
+                                const a = document.createElement("a");
+                                a.href = link[domainType];
+                                a.textContent = `${linkType}`;
+                                a.className = "text-blue-600 hover:underline text-sm inline-block";
+                                a.target = "_blank";
+                                li.appendChild(a);
+                                linkList.appendChild(li);
+                            });
+                        }
 
-                li.appendChild(a);
-                linkList.appendChild(li);
-              });
+                        card.appendChild(h3);
+                        card.appendChild(linkList);
+
+                        grid.appendChild(card);
+                    });
+
+                section.appendChild(title);
+                section.appendChild(grid);
+                dashboard.appendChild(section);
+            });
+        }
+
+        function toggleClearBtn() {
+            clearBtn.style.display = searchInput.value.trim() ? "block" : "none";
+        }
+
+        searchInput.addEventListener("input", () => {
+            toggleClearBtn();
+            renderDashboard(searchInput.value);
+        });
+
+        searchButton.addEventListener("click", () => {
+            renderDashboard(searchInput.value);
+            toggleClearBtn();
+        });
+
+        searchInput.addEventListener("keypress", e => {
+            if (e.key === "Enter") {
+                renderDashboard(searchInput.value);
+                toggleClearBtn();
             }
+        });
 
-            card.appendChild(h3);
-            card.appendChild(linkList);
+        clearBtn.addEventListener("click", () => {
+            searchInput.value = "";
+            toggleClearBtn();
+            renderDashboard();
+            searchInput.focus();
+        });
 
-            grid.appendChild(card);
-          });
-
-        section.appendChild(title);
-        section.appendChild(grid);
-        dashboard.appendChild(section);
-      });
+        toggleClearBtn();
+        renderDashboard();
     </script>
-  </body>
+</body>
+
 </html>
