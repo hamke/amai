@@ -66,8 +66,17 @@
         function renderDashboard(filterText = "") {
             dashboard.innerHTML = "";
 
+            const lowerFilter = filterText.toLowerCase();
+
             const filteredServices = filterText
-                ? services.filter(s => s.name.toLowerCase().includes(filterText.toLowerCase()))
+                ? services.filter(s => {
+                    const inName = s.name.toLowerCase().includes(lowerFilter);
+                    const inLinkKeys = Object.keys(s.links).some(linkKey =>
+                        linkKey.toLowerCase().includes(lowerFilter)
+                    );
+
+                    return inName || inLinkKeys;
+                })
                 : services;
 
             const categories = [...new Set(filteredServices.map(s => s.category))];
@@ -93,24 +102,55 @@
                         h3.className = "text-lg font-bold mb-2";
                         h3.textContent = service.name;
 
-                        const linkList = document.createElement("ul");
-                        linkList.className = "space-y-1";
+                        card.appendChild(h3);
 
-                        for (const [linkType, links] of Object.entries(service.links)) {
-                            links.forEach(link => {
-                                const li = document.createElement("li");
+                        if (service.links.main) {
+                            service.links.main.forEach(link => {
+                                const mainDiv = document.createElement("div");
+                                mainDiv.className = "main-link mb-2";
+
                                 const a = document.createElement("a");
                                 a.href = link[domainType];
-                                a.textContent = `${linkType}`;
+                                a.textContent = service.id;
                                 a.className = "text-blue-600 hover:underline text-sm inline-block";
                                 a.target = "_blank";
-                                li.appendChild(a);
-                                linkList.appendChild(li);
+
+                                mainDiv.appendChild(a);
+                                card.appendChild(mainDiv);
                             });
                         }
 
-                        card.appendChild(h3);
-                        card.appendChild(linkList);
+                        const otherLinksDiv = document.createElement("div");
+                        otherLinksDiv.className = "text-sm mt-1";
+
+                        const otherLinkEntries = Object.entries(service.links).filter(([key]) => key !== "main");
+
+                        const otherLinks = [];
+                        otherLinkEntries.forEach(([linkType, links]) => {
+                            links.forEach(link => {
+                                otherLinks.push({
+                                    text: linkType,
+                                    href: link[domainType],
+                                });
+                            });
+                        });
+
+                        otherLinks.forEach((linkObj, idx) => {
+                            const a = document.createElement("a");
+                            a.href = linkObj.href;
+                            a.textContent = linkObj.text;
+                            a.className = "text-blue-600 hover:underline";
+                            a.target = "_blank";
+                            otherLinksDiv.appendChild(a);
+
+                            if (idx < otherLinks.length - 1) {
+                                otherLinksDiv.appendChild(document.createTextNode(" / "));
+                            }
+                        });
+
+                        if (otherLinks.length > 0) {
+                            card.appendChild(otherLinksDiv);
+                        }
 
                         grid.appendChild(card);
                     });
