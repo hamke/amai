@@ -172,6 +172,12 @@ const services = [
           url_localhost: "./../../../../automoneyai/kr/item/blog-system/usage/"
         }
       ],
+      wordpress: [
+        {
+          url_external: "https://www.automoneyai.com/kr/item/blog-system/usage/wordpress/",
+          url_localhost: "./../../../../automoneyai/kr/item/blog-system/usage/wordpress/"
+        }
+      ],
       tistory: [
         {
           url_external: "https://www.automoneyai.com/kr/item/blog-system/usage/tistory/",
