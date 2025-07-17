@@ -212,13 +212,13 @@
         const dashboardPage = document.getElementById('dashboardPage');
         const loginForm = document.getElementById('loginForm');
         const loginError = document.getElementById('loginError');
-        const userDisplay = document.getElementById('userDisplay');
+        // const userDisplay = document.getElementById('userDisplay');
         const logoutBtn = document.getElementById('logoutBtn');
 
         function showDashboard(username) {
             loginPage.classList.add('hidden');
             dashboardPage.classList.remove('hidden');
-            userDisplay.textContent = username;
+            // userDisplay.textContent = username;
             renderDashboard();
         }
 
