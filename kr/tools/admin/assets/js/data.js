@@ -209,19 +209,19 @@ const services = [
       main: [
         {
           url_external: "https://www.wp-data.com/",
-          url_localhost: "./../../../../wp-kr/"
+          url_localhost: "./../../../../wp-data/public/"
         }
       ],
       usage: [
         {
           url_external: "https://www.wp-data.com/usage/",
-          url_localhost: "./../../../../wp-kr/usage/"
+          url_localhost: "./../../../../wp-data/public/usage/"
         }
       ],
       stats: [
         {
           url_external: "https://www.wp-data.com/stats/",
-          url_localhost: "./../../../../wp-kr/stats/"
+          url_localhost: "./../../../../wp-data/public/stats/"
         }
       ]
     }
@@ -238,13 +238,13 @@ const services = [
       main: [
         {
           url_external: "https://www.wpsalenow.com/",
-          url_localhost: "./../../../../wp-kr/"
+          url_localhost: "./../../../../wpsalenow/"
         }
       ],
       usage: [
         {
           url_external: "https://www.wpsalenow.com/usage/",
-          url_localhost: "./../../../../wp-kr/usage/"
+          url_localhost: "./../../../../wpsalenow/usage/"
         }
       ]
     }
@@ -261,31 +261,31 @@ const services = [
       main: [
         {
           url_external: "https://www.wp-viewer.com/",
-          url_localhost: "./../../../../wp-kr/"
+          url_localhost: "./../../../../wp-viewer/"
         }
       ],
       usage: [
         {
           url_external: "https://www.wp-viewer.com/usage/",
-          url_localhost: "./../../../../wp-kr/usage/"
+          url_localhost: "./../../../../wp-viewer/usage/"
         }
       ],
       blocked: [
         {
           url_external: "https://www.wp-viewer.com/blocked/",
-          url_localhost: "./../../../../wp-kr/blocked/"
+          url_localhost: "./../../../../wp-viewer/blocked/"
         }
       ],
       reported: [
         {
           url_external: "https://www.wp-viewer.com/reported/",
-          url_localhost: "./../../../../wp-kr/reported/"
+          url_localhost: "./../../../../wp-viewer/reported/"
         }
       ],
       stats: [
         {
           url_external: "https://www.wp-viewer.com/stats/",
-          url_localhost: "./../../../../wp-kr/stats/"
+          url_localhost: "./../../../../wp-viewer/stats/"
         }
       ]
     }
@@ -296,25 +296,25 @@ const services = [
   // -------------------------------------------------------
   {
     id: "wp-talk-child-theme-builder",
-    name: "WP Talk - Child Theme Builder",
+    name: "WP Child Theme Builder",
     category: "WP Services",
     links: {
       main: [
         {
           url_external: "https://www.wp-talk.com/app/child-theme-builder/",
-          url_localhost: "./../../../../wp-kr/app/child-theme-builder/"
+          url_localhost: "./../../../../wp-talk/app/child-theme-builder/"
         }
       ],
       usage: [
         {
           url_external: "https://www.wp-talk.com/app/child-theme-builder/usage/",
-          url_localhost: "./../../../../wp-kr/app/child-theme-builder/usage/"
+          url_localhost: "./../../../../wp-talk/app/child-theme-builder/usage/"
         }
       ],
       stats: [
         {
           url_external: "https://www.wp-talk.com/app/child-theme-builder/stats/",
-          url_localhost: "./../../../../wp-kr/app/child-theme-builder/stats/"
+          url_localhost: "./../../../../wp-talk/app/child-theme-builder/stats/"
         }
       ]
     }
