@@ -706,68 +706,68 @@ const services = [
   // Auto AI Content Generator
   // -------------------------------------------------------
   {
-    id: "wp-auto-ai-content-generator",
+    id: "wp-auto-ai-auto-content-generator",
     name: "WP Auto AI Content Generator",
     category: "WP AI Blog System",
     links: {
       main: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/"
         }
       ],
       store: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/store/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/store/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/store/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/store/"
         }
       ],
       message: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/message/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/message/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/message/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/message/"
         }
       ],
       download: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/download/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/download/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/download/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/download/"
         }
       ],
       guide: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/guide/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/guide/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/guide/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/guide/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/usage/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/usage/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/usage/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/usage/"
         }
       ],
       "auto-posting-with-ai": [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/usage/auto-posting-with-ai/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/usage/auto-posting-with-ai/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/usage/auto-posting-with-ai/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/usage/auto-posting-with-ai/"
         }
       ],
       clients: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/clients/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/clients/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/clients/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/clients/"
         }
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/demo/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/demo/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/demo/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/demo/"
         }
       ],
       stats: [
         {
-          url_external: "https://www.wp-kr.com/item/ai-content-generator/stats/",
-          url_localhost: "./../../../../wp-kr/item/ai-content-generator/stats/"
+          url_external: "https://www.wp-kr.com/item/ai-auto-content-generator/stats/",
+          url_localhost: "./../../../../wp-kr/item/ai-auto-content-generator/stats/"
         }
       ]
     }
