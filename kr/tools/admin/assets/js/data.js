@@ -43,6 +43,12 @@ const services = [
           url_localhost: "./../../../../automoneytalk/kr/kakao/"
         }
       ],
+      kakaochat: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/kakaochat/",
+          url_localhost: "./../../../../automoneytalk/kr/kakaochat/"
+        }
+      ],
       blog: [
         {
           url_external: "https://www.automoneytalk.com/kr/blog/",
