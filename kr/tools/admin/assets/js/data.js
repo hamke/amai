@@ -57,14 +57,20 @@ const services = [
       ],
       instagram: [
         {
-          url_external: "https://www.automoneytalk.com/kr/instagram/",
-          url_localhost: "./../../../../automoneytalk/kr/instagram/"
+          url_external: "https://www.automoneytalk.com/kr/ig/",
+          url_localhost: "./../../../../automoneytalk/kr/ig/"
         }
       ],
       facebook: [
         {
-          url_external: "https://www.automoneytalk.com/kr/facebook/",
-          url_localhost: "./../../../../automoneytalk/kr/facebook/"
+          url_external: "https://www.automoneytalk.com/kr/fb/",
+          url_localhost: "./../../../../automoneytalk/kr/fb/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/threads/",
+          url_localhost: "./../../../../automoneytalk/kr/threads/"
         }
       ],
       "naver-blog": [
