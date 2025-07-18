@@ -2547,10 +2547,88 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/make-homepage/"
         }
       ],
+      "make-homepage-hospital": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/make-homepage-hospital/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/make-homepage-hospital/"
+        }
+      ],
+      "make-homepage-lawfirm": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/make-homepage-lawfirm/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/make-homepage-lawfirm/"
+        }
+      ],
+      "make-homepage-restaurant": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/make-homepage-restaurant/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/make-homepage-restaurant/"
+        }
+      ],
       "import-web-builders": [
         {
           url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-web-builders/",
           url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-web-builders/"
+        }
+      ],
+      "import-bubble": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-bubble/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-bubble/"
+        }
+      ],
+      "import-framer": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-framer/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-framer/"
+        }
+      ],
+      "import-imweb": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-imweb/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-imweb/"
+        }
+      ],
+      "import-onepagelove": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-onepagelove/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-onepagelove/"
+        }
+      ],
+      "import-shopify": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-shopify/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-shopify/"
+        }
+      ],
+      "import-sixshop": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-sixshop/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-sixshop/"
+        }
+      ],
+      "import-squarespace": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-squarespace/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-squarespace/"
+        }
+      ],
+      "import-webflow": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-webflow/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-webflow/"
+        }
+      ],
+      "import-wix": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-wix/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-wix/"
+        }
+      ],
+      "import-wordpress": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-wordpress/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/import-wordpress/"
         }
       ],
       "after-modoo": [
