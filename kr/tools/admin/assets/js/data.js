@@ -429,7 +429,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "wp-data",
-    name: "WP Data",
+    name: "WP Analytics",
     category: "WP Services (Basic)",
     links: {
       main: [
