@@ -437,6 +437,29 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.wp-kr.com
+  // -------------------------------------------------------
+  {
+    id: "wp-kr",
+    name: "WordPress AI Korea",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/",
+          url_localhost: "./../../../../wp-kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/usage/",
+          url_localhost: "./../../../../wp-kr/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.wp-data.com
   // -------------------------------------------------------
   {
