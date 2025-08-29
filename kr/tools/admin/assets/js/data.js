@@ -865,8 +865,8 @@ const services = [
   // -------------------------------------------------------
   {
     id: "wp-auto-money-website",
-    name: "WP Auto Money System",
-    category: "WP Auto Money System",
+    name: "WP Auto Money Website",
+    category: "WP Auto Money Website",
     links: {
       main: [
         {
