@@ -996,7 +996,7 @@ const services = [
   {
     id: "wp-auto-importer",
     name: "WP Auto Importer",
-    category: "WP Auto Money System",
+    category: "WP Auto Importer",
     links: {
       main: [
         {
