@@ -90,6 +90,12 @@ const services = [
           url_external: "https://www.automoneytalk.com/kr/newsletter/",
           url_localhost: "./../../../../automoneytalk/kr/newsletter/"
         }
+      ],
+      wordpress: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/wordpress/",
+          url_localhost: "./../../../../automoneytalk/kr/wordpress/"
+        }
       ]
     }
   },
@@ -112,6 +118,12 @@ const services = [
         {
           url_external: "https://www.automoneyai.com/kr/blog/",
           url_localhost: "./../../../../automoneyai/kr/blog/"
+        }
+      ],
+      wordpress: [
+        {
+          url_external: "https://www.automoneyai.com/kr/wordpress/",
+          url_localhost: "./../../../../automoneyai/kr/wordpress/"
         }
       ]
     }
