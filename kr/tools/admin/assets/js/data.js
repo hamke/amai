@@ -236,225 +236,6 @@ const services = [
   },
 
   // -------------------------------------------------------
-  // WP AI Service Starter
-  // -------------------------------------------------------
-  {
-    id: "wp-ai-service-starter",
-    name: "WP AI Service Starter",
-    category: "WP AI Service Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/store/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/store/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/"
-        }
-      ],
-      "classic-vs-modern": [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/classic-vs-modern/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/classic-vs-modern/"
-        }
-      ],
-      "how-to-make": [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/how-to-make/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/how-to-make/"
-        }
-      ],
-      types: [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/types/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/types/"
-        }
-      ],
-      preparations: [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/preparations/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/preparations/"
-        }
-      ],
-      "why-start-now": [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/why-start-now/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/why-start-now/"
-        }
-      ],
-      "why-your-blog-fail": [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/why-your-blog-fail/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/why-your-blog-fail/"
-        }
-      ],
-      "get-openai-api": [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/get-openai-api/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/get-openai-api/"
-        }
-      ],
-      "get-gemini-api": [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/usage/get-gemini-api/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/get-gemini-api/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/ai-service-starter/demo/",
-          url_localhost: "./../../../../wp-kr/ai-service-starter/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Starter ( AI Image Service )
-  // -------------------------------------------------------
-  {
-    id: "wp-ai-image-service-starter",
-    name: "WP AI Image Service Starter",
-    category: "WP AI Service Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/store/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/store/"
-        }
-      ],
-      message: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/message/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/message/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/download/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/guide/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/usage/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/usage/"
-        }
-      ],
-      steps: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/usage/steps/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/usage/steps/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/clients/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/clients/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/demo/",
-          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Starter ( AI Music Service )
-  // -------------------------------------------------------
-  {
-    id: "wp-ai-music-service-starter",
-    name: "WP AI Music Service Starter",
-    category: "WP AI Service Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/store/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/store/"
-        }
-      ],
-      message: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/message/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/message/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/download/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/guide/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/usage/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/usage/"
-        }
-      ],
-      "auto-gen": [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/usage/auto-gen/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/usage/auto-gen/"
-        }
-      ],
-      steps: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/usage/steps/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/usage/steps/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/clients/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/clients/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/demo/",
-          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
   // www.wp-kr.com
   // -------------------------------------------------------
   {
@@ -679,6 +460,225 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/clients/",
           url_localhost: "./../../../../wp-kr/clients/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP AI Service Starter
+  // -------------------------------------------------------
+  {
+    id: "wp-ai-service-starter",
+    name: "WP AI Service Starter",
+    category: "WP AI Service Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/store/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/store/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/"
+        }
+      ],
+      "classic-vs-modern": [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/classic-vs-modern/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/classic-vs-modern/"
+        }
+      ],
+      "how-to-make": [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/how-to-make/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/how-to-make/"
+        }
+      ],
+      types: [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/types/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/types/"
+        }
+      ],
+      preparations: [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/preparations/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/preparations/"
+        }
+      ],
+      "why-start-now": [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/why-start-now/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/why-start-now/"
+        }
+      ],
+      "why-your-blog-fail": [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/why-your-blog-fail/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/why-your-blog-fail/"
+        }
+      ],
+      "get-openai-api": [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/get-openai-api/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/get-openai-api/"
+        }
+      ],
+      "get-gemini-api": [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/usage/get-gemini-api/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/usage/get-gemini-api/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/ai-service-starter/demo/",
+          url_localhost: "./../../../../wp-kr/ai-service-starter/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Starter ( AI Image Service )
+  // -------------------------------------------------------
+  {
+    id: "wp-ai-image-service-starter",
+    name: "WP AI Image Service Starter",
+    category: "WP AI Service Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/store/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/store/"
+        }
+      ],
+      message: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/message/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/message/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/download/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/guide/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/usage/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/usage/"
+        }
+      ],
+      steps: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/usage/steps/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/usage/steps/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/clients/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-image-service-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/ai-image-service-starter/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Starter ( AI Music Service )
+  // -------------------------------------------------------
+  {
+    id: "wp-ai-music-service-starter",
+    name: "WP AI Music Service Starter",
+    category: "WP AI Service Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/store/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/store/"
+        }
+      ],
+      message: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/message/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/message/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/download/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/guide/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/usage/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/usage/"
+        }
+      ],
+      "auto-gen": [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/usage/auto-gen/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/usage/auto-gen/"
+        }
+      ],
+      steps: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/usage/steps/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/usage/steps/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/clients/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/ai-music-service-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/ai-music-service-starter/demo/"
         }
       ]
     }
