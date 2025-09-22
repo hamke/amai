@@ -3280,29 +3280,6 @@ const services = [
   },
 
   // -------------------------------------------------------
-  // Auto Content Lock
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-lock",
-    name: "WP Auto Content Lock",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/auto-content-lock/",
-          url_localhost: "./../../../../wp-kr/auto-content-lock/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/auto-content-lock/usage/",
-          url_localhost: "./../../../../wp-kr/auto-content-lock/usage/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
   // Auto Content Seller
   // -------------------------------------------------------
   {
