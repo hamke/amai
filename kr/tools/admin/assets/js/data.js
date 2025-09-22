@@ -268,20 +268,20 @@ const services = [
     links: {
       main: [
         {
-          url_external: "https://www.wp-data.com/",
-          url_localhost: "./../../../../wp-data/public/"
+          url_external: "https://www.wp-data.com/kr/",
+          url_localhost: "./../../../../wp-data/public/kr/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.wp-data.com/usage/",
-          url_localhost: "./../../../../wp-data/public/usage/"
+          url_external: "https://www.wp-data.com/kr/usage/",
+          url_localhost: "./../../../../wp-data/public/kr/usage/"
         }
       ],
       stats: [
         {
-          url_external: "https://www.wp-data.com/stats/",
-          url_localhost: "./../../../../wp-data/public/stats/"
+          url_external: "https://www.wp-data.com/kr/stats/",
+          url_localhost: "./../../../../wp-data/public/kr/stats/"
         }
       ]
     }
@@ -297,14 +297,14 @@ const services = [
     links: {
       main: [
         {
-          url_external: "https://www.wpsalenow.com/",
-          url_localhost: "./../../../../wpsalenow/"
+          url_external: "https://www.wpsalenow.com/kr/",
+          url_localhost: "./../../../../wpsalenow/kr/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.wpsalenow.com/usage/",
-          url_localhost: "./../../../../wpsalenow/usage/"
+          url_external: "https://www.wpsalenow.com/kr/usage/",
+          url_localhost: "./../../../../wpsalenow/kr/usage/"
         }
       ]
     }
@@ -320,32 +320,32 @@ const services = [
     links: {
       main: [
         {
-          url_external: "https://www.wp-viewer.com/",
-          url_localhost: "./../../../../wp-viewer/"
+          url_external: "https://www.wp-viewer.com/kr/",
+          url_localhost: "./../../../../wp-viewer/kr/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.wp-viewer.com/usage/",
-          url_localhost: "./../../../../wp-viewer/usage/"
+          url_external: "https://www.wp-viewer.com/kr/usage/",
+          url_localhost: "./../../../../wp-viewer/kr/usage/"
         }
       ],
       blocked: [
         {
-          url_external: "https://www.wp-viewer.com/blocked/",
-          url_localhost: "./../../../../wp-viewer/blocked/"
+          url_external: "https://www.wp-viewer.com/kr/blocked/",
+          url_localhost: "./../../../../wp-viewer/kr/blocked/"
         }
       ],
       reported: [
         {
-          url_external: "https://www.wp-viewer.com/reported/",
-          url_localhost: "./../../../../wp-viewer/reported/"
+          url_external: "https://www.wp-viewer.com/kr/reported/",
+          url_localhost: "./../../../../wp-viewer/kr/reported/"
         }
       ],
       stats: [
         {
-          url_external: "https://www.wp-viewer.com/stats/",
-          url_localhost: "./../../../../wp-viewer/stats/"
+          url_external: "https://www.wp-viewer.com/kr/stats/",
+          url_localhost: "./../../../../wp-viewer/kr/stats/"
         }
       ]
     }
