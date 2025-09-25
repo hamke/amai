@@ -1,23 +1,71 @@
 const services = [
 
   // -------------------------------------------------------
-  // www.automoneylab.com/kr/
+  // www.moneyskilltalk.com/kr/
   // -------------------------------------------------------
   {
-    id: "automoneylab",
-    name: "AutoMoneyLab",
+    id: "moneyskilltalk",
+    name: "MoneySkillTalk",
     category: "AutoMoney AI (Basic)",
     links: {
       main: [
         {
-          url_external: "https://www.automoneylab.com/kr/",
-          url_localhost: "./../../../../automoneylab/kr/"
+          url_external: "https://www.moneyskilltalk.com/kr/",
+          url_localhost: "./../../../../moneyskilltalk/kr/"
+        }
+      ],
+      links: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/links/",
+          url_localhost: "./../../../../moneyskilltalk/kr/links/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/kakao/",
+          url_localhost: "./../../../../moneyskilltalk/kr/kakao/"
         }
       ],
       blog: [
         {
-          url_external: "https://www.automoneylab.com/kr/blog/",
-          url_localhost: "./../../../../automoneylab/kr/blog/"
+          url_external: "https://www.moneyskilltalk.com/kr/blog/",
+          url_localhost: "./../../../../moneyskilltalk/kr/blog/"
+        }
+      ],
+      youtube: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/youtube/",
+          url_localhost: "./../../../../moneyskilltalk/kr/youtube/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/ig/",
+          url_localhost: "./../../../../moneyskilltalk/kr/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/fb/",
+          url_localhost: "./../../../../moneyskilltalk/kr/fb/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/threads/",
+          url_localhost: "./../../../../moneyskilltalk/kr/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/naver-blog/",
+          url_localhost: "./../../../../moneyskilltalk/kr/naver-blog/"
+        }
+      ],
+      newsletter: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/newsletter/",
+          url_localhost: "./../../../../moneyskilltalk/kr/newsletter/"
         }
       ]
     }
@@ -35,6 +83,12 @@ const services = [
         {
           url_external: "https://www.automoneytalk.com/kr/",
           url_localhost: "./../../../../automoneytalk/kr/"
+        }
+      ],
+      links: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/links/",
+          url_localhost: "./../../../../automoneytalk/kr/links/"
         }
       ],
       kakao: [
@@ -153,6 +207,29 @@ const services = [
         {
           url_external: "https://www.automoneyschool.com/kr/ai-agency/",
           url_localhost: "./../../../../automoneyschool/kr/ai-agency/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.automoneylab.com/kr/
+  // -------------------------------------------------------
+  {
+    id: "automoneylab",
+    name: "AutoMoneyLab",
+    category: "AutoMoney AI (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.automoneylab.com/kr/",
+          url_localhost: "./../../../../automoneylab/kr/"
+        }
+      ],
+      blog: [
+        {
+          url_external: "https://www.automoneylab.com/kr/blog/",
+          url_localhost: "./../../../../automoneylab/kr/blog/"
         }
       ]
     }
