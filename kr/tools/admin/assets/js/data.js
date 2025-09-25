@@ -2867,6 +2867,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-google-translate-jp/"
         }
       ],
+      "naver-blog": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-naver-blog/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-naver-blog/"
+        }
+      ],
       tistory: [
         {
           url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-tistory/",
