@@ -2879,6 +2879,36 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-tistory/"
         }
       ],
+      brunch: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-brunch/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-brunch/"
+        }
+      ],
+      medium: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-medium/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-medium/"
+        }
+      ],
+      ameblo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-ameblo/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-ameblo/"
+        }
+      ],
+      pixnet: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-pixnet/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-pixnet/"
+        }
+      ],
+      wordpress: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-blog/usage-wordpress/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-blog/usage-wordpress/"
+        }
+      ],
       clients: [
         {
           url_external: "https://www.wp-kr.com/item/auto-importer-blog/clients/",
