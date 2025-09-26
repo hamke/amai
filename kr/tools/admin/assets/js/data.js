@@ -208,6 +208,12 @@ const services = [
           url_external: "https://www.automoneyschool.com/kr/ai-agency/",
           url_localhost: "./../../../../automoneyschool/kr/ai-agency/"
         }
+      ],
+      "wordpress-agency": [
+        {
+          url_external: "https://www.automoneyschool.com/kr/wordpress-agency/",
+          url_localhost: "./../../../../automoneyschool/kr/wordpress-agency/"
+        }
       ]
     }
   },
