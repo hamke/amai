@@ -484,7 +484,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "wp-univ",
-    name: "WP Univ",
+    name: "WP-Univ",
     category: "WP Services (Basic)",
     links: {
       main: [
