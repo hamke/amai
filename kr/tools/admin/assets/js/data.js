@@ -2695,6 +2695,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/make-homepage-restaurant/"
         }
       ],
+      "make-sns-biolink-page": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/make-sns-biolink-page/",
+          url_localhost: "./../../../../wp-kr/item/auto-importer-webpage/usage/make-sns-biolink-page/"
+        }
+      ],
       "import-web-builders": [
         {
           url_external: "https://www.wp-kr.com/item/auto-importer-webpage/usage/import-web-builders/",
