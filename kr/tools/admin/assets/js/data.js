@@ -323,7 +323,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "wp-kr",
-    name: "WordPress AI Korea",
+    name: "WP AI Korea",
     category: "WP Services (Basic)",
     links: {
       main: [
@@ -475,6 +475,22 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/store/",
           url_localhost: "./../../../../wp-kr/store/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // WP-UNIV
+  // -------------------------------------------------------
+  {
+    id: "wp-univ",
+    name: "WP Univ",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-univ.com/kr/",
+          url_localhost: "./../../../../wp-univ/kr/"
         }
       ]
     }
