@@ -337,6 +337,12 @@ const services = [
           url_external: "https://www.wp-kr.com/usage/",
           url_localhost: "./../../../../wp-kr/usage/"
         }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/usage/clients-what-to-do/",
+          url_localhost: "./../../../../wp-kr/usage/clients-what-to-do/"
+        }
       ]
     }
   },
