@@ -338,7 +338,7 @@ const services = [
           url_localhost: "./../../../../wp-kr/usage/"
         }
       ],
-      usage: [
+      "clients-what-to-do": [
         {
           url_external: "https://www.wp-kr.com/usage/clients-what-to-do/",
           url_localhost: "./../../../../wp-kr/usage/clients-what-to-do/"
