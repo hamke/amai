@@ -502,6 +502,46 @@ const services = [
     }
   },
   // -------------------------------------------------------
+  // WP Agency Starter
+  // -------------------------------------------------------
+  {
+    id: "wp-agency-starter",
+    name: "WP Agency Starter",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
   // www.wp-kr.com/app/kakaochat/
   // -------------------------------------------------------
   {
@@ -1108,47 +1148,6 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/auto-money-agency/usage/make-landing-page/",
           url_localhost: "./../../../../wp-kr/auto-money-agency/usage/make-landing-page/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Agency Starter (Plugin)
-  // -------------------------------------------------------
-  {
-    id: "wp-agency-starter",
-    name: "WP Auto Agency Starter (Plugin)",
-    category: "WP Auto Money System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
         }
       ]
     }
