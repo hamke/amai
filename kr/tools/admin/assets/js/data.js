@@ -1117,7 +1117,7 @@ const services = [
   // Auto Agency Starter (Plugin)
   // -------------------------------------------------------
   {
-    id: "wp-auto-agency-starter-plugin",
+    id: "wp-agency-starter",
     name: "WP Auto Agency Starter (Plugin)",
     category: "WP Auto Money System",
     links: {
