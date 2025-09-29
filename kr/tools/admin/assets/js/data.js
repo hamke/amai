@@ -1114,6 +1114,47 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // Auto Agency Starter (Plugin)
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-agency-starter-plugin",
+    name: "WP Auto Agency Starter (Plugin)",
+    category: "WP Auto Money System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // Auto Importer
   // -------------------------------------------------------
   {
