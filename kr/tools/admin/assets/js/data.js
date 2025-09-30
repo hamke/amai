@@ -1138,6 +1138,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/auto-money-agency/usage/why-wordpress/"
         }
       ],
+      "why-make-plugins": [
+        {
+          url_external: "https://www.wp-kr.com/auto-money-agency/usage/why-make-plugins/",
+          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/why-make-plugins/"
+        }
+      ],
       "why-from-online": [
         {
           url_external: "https://www.wp-kr.com/auto-money-agency/usage/why-from-online/",
