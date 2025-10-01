@@ -485,62 +485,54 @@ const services = [
       ]
     }
   },
+
   // -------------------------------------------------------
-  // WP-UNIV
+  // WP Auto Money System
   // -------------------------------------------------------
   {
-    id: "wp-univ",
-    name: "WP-Univ",
+    id: "wp-auto-money-system",
+    name: "WP Auto Money System",
     category: "WP Services (Basic)",
     links: {
       main: [
         {
-          url_external: "https://www.wp-univ.com/kr/",
-          url_localhost: "./../../../../wp-univ/kr/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // WP Agency Starter
-  // -------------------------------------------------------
-  {
-    id: "wp-agency-starter",
-    name: "WP Agency Starter",
-    category: "WP Services (Basic)",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/"
+          url_external: "https://www.wp-kr.com/auto-money-system/",
+          url_localhost: "./../../../../wp-kr/auto-money-system/"
         }
       ],
-      store: [
+      admin: [
         {
-          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
+          url_external: "https://www.wp-kr.com/auto-money-system/admin/",
+          url_localhost: "./../../../../wp-kr/auto-money-system/admin/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
+          url_external: "https://www.wp-kr.com/auto-money-system/usage/",
+          url_localhost: "./../../../../wp-kr/auto-money-system/usage/"
+        }
+      ],
+      copyright: [
+        {
+          url_external: "https://www.wp-kr.com/auto-money-system/usage-copyright/",
+          url_localhost: "./../../../../wp-kr/auto-money-system/usage-copyright/"
+        }
+      ],
+      "domain-cafe24": [
+        {
+          url_external: "https://www.wp-kr.com/auto-money-system/usage-domain-cafe24/",
+          url_localhost: "./../../../../wp-kr/auto-money-system/usage-domain-cafe24/"
+        }
+      ],
+      "site-setup-cafe24": [
+        {
+          url_external: "https://www.wp-kr.com/auto-money-system/site-setup-cafe24/",
+          url_localhost: "./../../../../wp-kr/auto-money-system/site-setup-cafe24/"
         }
       ]
     }
   },
+  
   // -------------------------------------------------------
   // www.wp-kr.com/app/kakaochat/
   // -------------------------------------------------------
@@ -605,6 +597,141 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/clients/",
           url_localhost: "./../../../../wp-kr/clients/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP-UNIV
+  // -------------------------------------------------------
+  {
+    id: "wp-univ",
+    name: "WP-Univ",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-univ.com/kr/",
+          url_localhost: "./../../../../wp-univ/kr/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP Agency School
+  // -------------------------------------------------------
+  {
+    id: "wp-agency-school",
+    name: "WP Agency School",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/",
+          url_localhost: "./../../../../wp-kr/agency-school/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/store/",
+          url_localhost: "./../../../../wp-kr/agency-school/store/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/guide/",
+          url_localhost: "./../../../../wp-kr/agency-school/guide/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/demo/",
+          url_localhost: "./../../../../wp-kr/agency-school/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/"
+        }
+      ],
+      "start-guide": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/start-guide/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/start-guide/"
+        }
+      ],
+      "must-have": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/must-have/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/must-have/"
+        }
+      ],
+      "why-wordpress": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/why-wordpress/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/why-wordpress/"
+        }
+      ],
+      "why-make-plugins": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/why-make-plugins/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/why-make-plugins/"
+        }
+      ],
+      "why-from-online": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/why-from-online/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/why-from-online/"
+        }
+      ],
+      "make-landing-page": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/make-landing-page/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/make-landing-page/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP Agency Starter
+  // -------------------------------------------------------
+  {
+    id: "wp-agency-starter",
+    name: "WP Agency Starter",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
         }
       ]
     }
@@ -978,52 +1105,6 @@ const services = [
   },
 
   // -------------------------------------------------------
-  // WP Auto Money System
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-money-system",
-    name: "WP Auto Money System",
-    category: "WP Auto Money System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-system/",
-          url_localhost: "./../../../../wp-kr/auto-money-system/"
-        }
-      ],
-      admin: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-system/admin/",
-          url_localhost: "./../../../../wp-kr/auto-money-system/admin/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-system/usage/",
-          url_localhost: "./../../../../wp-kr/auto-money-system/usage/"
-        }
-      ],
-      copyright: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-system/usage-copyright/",
-          url_localhost: "./../../../../wp-kr/auto-money-system/usage-copyright/"
-        }
-      ],
-      "domain-cafe24": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-system/usage-domain-cafe24/",
-          url_localhost: "./../../../../wp-kr/auto-money-system/usage-domain-cafe24/"
-        }
-      ],
-      "site-setup-cafe24": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-system/site-setup-cafe24/",
-          url_localhost: "./../../../../wp-kr/auto-money-system/site-setup-cafe24/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
   // Auto Money Website
   // -------------------------------------------------------
   {
@@ -1077,83 +1158,6 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/auto-money-website/travel-with-money/",
           url_localhost: "./../../../../wp-kr/auto-money-website/travel-with-money/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Money Agency
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-money-agency",
-    name: "WP Auto Money Agency",
-    category: "WP Auto Money System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/store/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/store/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/guide/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/guide/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/demo/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/"
-        }
-      ],
-      "start-guide": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/start-guide/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/start-guide/"
-        }
-      ],
-      "must-have": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/must-have/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/must-have/"
-        }
-      ],
-      "why-wordpress": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/why-wordpress/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/why-wordpress/"
-        }
-      ],
-      "why-make-plugins": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/why-make-plugins/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/why-make-plugins/"
-        }
-      ],
-      "why-from-online": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/why-from-online/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/why-from-online/"
-        }
-      ],
-      "make-landing-page": [
-        {
-          url_external: "https://www.wp-kr.com/auto-money-agency/usage/make-landing-page/",
-          url_localhost: "./../../../../wp-kr/auto-money-agency/usage/make-landing-page/"
         }
       ]
     }
