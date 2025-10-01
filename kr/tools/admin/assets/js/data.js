@@ -319,6 +319,119 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.wp-talk.com
+  // -------------------------------------------------------
+  {
+    id: "wp-talk",
+    name: "WP-Talk",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-talk.com/kr/",
+          url_localhost: "./../../../../wp-talk/kr/"
+        }
+      ],
+      101: [
+        {
+          url_external: "https://www.wp-talk.com/kr/101/",
+          url_localhost: "./../../../../wp-talk/kr/101/"
+        }
+      ],
+      119: [
+        {
+          url_external: "https://www.wp-talk.com/kr/119/",
+          url_localhost: "./../../../../wp-talk/kr/119/"
+        }
+      ],
+      "must-read": [
+        {
+          url_external: "https://www.wp-talk.com/kr/must-read/",
+          url_localhost: "./../../../../wp-talk/kr/must-read/"
+        }
+      ],
+      faq: [
+        {
+          url_external: "https://www.wp-talk.com/kr/faq/",
+          url_localhost: "./../../../../wp-talk/kr/faq/"
+        }
+      ],
+      lesson: [
+        {
+          url_external: "https://www.wp-talk.com/kr/lesson/",
+          url_localhost: "./../../../../wp-talk/kr/lesson/"
+        }
+      ],
+      hosting: [
+        {
+          url_external: "https://www.wp-talk.com/kr/hosting/",
+          url_localhost: "./../../../../wp-talk/kr/hosting/"
+        }
+      ],
+      examples: [
+        {
+          url_external: "https://www.wp-talk.com/kr/examples/",
+          url_localhost: "./../../../../wp-talk/kr/examples/"
+        }
+      ],
+      "examples-woocommerce": [
+        {
+          url_external: "https://www.wp-talk.com/kr/examples-woocommerce/",
+          url_localhost: "./../../../../wp-talk/kr/examples-woocommerce/"
+        }
+      ],
+      "bad-lessons": [
+        {
+          url_external: "https://www.wp-talk.com/kr/bad-lessons/",
+          url_localhost: "./../../../../wp-talk/kr/bad-lessons/"
+        }
+      ],
+      "good-agency": [
+        {
+          url_external: "https://www.wp-talk.com/kr/good-agency/",
+          url_localhost: "./../../../../wp-talk/kr/good-agency/"
+        }
+      ],
+      "bad-agency-china": [
+        {
+          url_external: "https://www.wp-talk.com/kr/bad-agency-china/",
+          url_localhost: "./../../../../wp-talk/kr/bad-agency-china/"
+        }
+      ],
+      "must-know-services": [
+        {
+          url_external: "https://www.wp-talk.com/kr/must-know-services/",
+          url_localhost: "./../../../../wp-talk/kr/must-know-services/"
+        }
+      ],
+      "why-use-starter": [
+        {
+          url_external: "https://www.wp-talk.com/kr/why-use-starter/",
+          url_localhost: "./../../../../wp-talk/kr/why-use-starter/"
+        }
+      ],
+      "themes-ranking": [
+        {
+          url_external: "https://www.wp-talk.com/kr/themes-ranking/",
+          url_localhost: "./../../../../wp-talk/kr/themes-ranking/"
+        }
+      ],
+      "plugins-ranking": [
+        {
+          url_external: "https://www.wp-talk.com/kr/plugins-ranking/",
+          url_localhost: "./../../../../wp-talk/kr/plugins-ranking/"
+        }
+      ],
+      "wordpress-make-money": [
+        {
+          url_external: "https://www.wp-talk.com/kr/wordpress-make-money/",
+          url_localhost: "./../../../../wp-talk/kr/wordpress-make-money/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.wp-kr.com
   // -------------------------------------------------------
   {
