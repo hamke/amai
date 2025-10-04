@@ -554,70 +554,6 @@ const services = [
   },
 
   // -------------------------------------------------------
-  // www.homepageasia.com
-  // -------------------------------------------------------
-  {
-    id: "homepageasia",
-    name: "HomepageAsia",
-    category: "WP Services (Basic)",
-    links: {
-      main: [
-        {
-          url_external: "https://www.homepageasia.com/kr/",
-          url_localhost: "./../../../../homepageasia/kr/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.homepageasia.com/kr/usage/",
-          url_localhost: "./../../../../homepageasia/kr/usage/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.homepageasia.com (Viewer)
-  // -------------------------------------------------------
-  {
-    id: "homepageasia-viewer",
-    name: "HomepageAsia (Viewer)",
-    category: "WP Services (Basic)",
-    links: {
-      main: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/usage/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
-        }
-      ],
-      blocked: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/blocked/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/blocked/"
-        }
-      ],
-      reported: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/reported/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/reported/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/stats/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
   // www.wp-talk.com/app/child-theme-builder
   // -------------------------------------------------------
   {
@@ -774,6 +710,70 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/clients/",
           url_localhost: "./../../../../wp-kr/clients/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.homepageasia.com
+  // -------------------------------------------------------
+  {
+    id: "homepageasia",
+    name: "HomepageAsia",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.homepageasia.com/kr/",
+          url_localhost: "./../../../../homepageasia/kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.homepageasia.com (Viewer)
+  // -------------------------------------------------------
+  {
+    id: "homepageasia-viewer",
+    name: "HomepageAsia (Viewer)",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/usage/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
+        }
+      ],
+      blocked: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/blocked/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/blocked/"
+        }
+      ],
+      reported: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/reported/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/reported/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/stats/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
         }
       ]
     }
