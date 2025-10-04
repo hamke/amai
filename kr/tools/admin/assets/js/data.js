@@ -572,8 +572,25 @@ const services = [
           url_external: "https://www.homepageasia.com/kr/usage/",
           url_localhost: "./../../../../homepageasia/kr/usage/"
         }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.homepageasia.com (Viewer)
+  // -------------------------------------------------------
+  {
+    id: "homepageasia-viewer",
+    name: "HomepageAsia (Viewer)",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/"
+        }
       ],
-      "usage-viewer": [
+      usage: [
         {
           url_external: "https://www.homepageasia.com/kr/viewer/usage/",
           url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
