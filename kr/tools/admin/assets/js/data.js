@@ -554,6 +554,53 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.homepageasia.com
+  // -------------------------------------------------------
+  {
+    id: "homepageasia",
+    name: "HomepageAsia",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.homepageasia.com/kr/",
+          url_localhost: "./../../../../homepageasia/kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/"
+        }
+      ],
+      "usage-viewer": [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/usage/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
+        }
+      ],
+      blocked: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/blocked/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/blocked/"
+        }
+      ],
+      reported: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/reported/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/reported/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/stats/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.wp-talk.com/app/child-theme-builder
   // -------------------------------------------------------
   {
