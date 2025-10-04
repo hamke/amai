@@ -3537,6 +3537,59 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // Auto Profile Link Page Builder
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-profile-link-page-builder",
+    name: "WP Auto Profile Link Page Builder",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/store/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/usage/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // Auto Money Video System
   // -------------------------------------------------------
   {
