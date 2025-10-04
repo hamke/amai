@@ -3260,6 +3260,783 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // Auto Profile Link Page Builder
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-profile-link-page-builder",
+    name: "WP Auto Profile Link Page Builder",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/store/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/usage/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Money Video System
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-money-video",
+    name: "WP Auto Money Video System",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/store/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/usage/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-video/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-video/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Content Seller
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-seller",
+    name: "WP Auto Content Seller",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/auto-content-seller/",
+          url_localhost: "./../../../../wp-kr/auto-content-seller/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/auto-content-seller/usage/",
+          url_localhost: "./../../../../wp-kr/auto-content-seller/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Content Lock System
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-lock",
+    name: "WP Auto Content Lock System",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/store/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/usage/"
+        }
+      ],
+      "sell-video-content": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/usage/sell-video-content/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/usage/sell-video-content/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/clients/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto Content Lock System - Show More With Password
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-lock-show-more-with-password",
+    name: "WP Auto Content Lock (Show More With Password)",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/stats/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/stats/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/without-pay/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto Content Lock System - Download File With Password
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-lock-download-file-with-password",
+    name: "WP Auto Content Lock (Download File With Password)",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/stats/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/stats/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/without-pay/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Redirect Link Converter
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-redirect-link-converter",
+    name: "WP Auto Redirect Link Converter",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/store/"
+        }
+      ],
+      message: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/message/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/message/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/stats/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/stats/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/demo/"
+        }
+      ],
+      kmong: [
+        {
+          url_external: "https://wpauto.mycafe24.com/item/auto-redirect-link-converter/",
+          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/kmong/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto SNS Posting System
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-sns-posting",
+    name: "WP Auto SNS Posting System",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/"
+        }
+      ],
+      message: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/message/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/message/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/usage/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/demo/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/demo/fb/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/demo/fb/"
+        }
+      ],
+      twitter: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-sns-posting/demo/twitter/",
+          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/demo/twitter/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto Main Page Generator
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-main-page-generator",
+    name: "WP Auto Main Page Generator",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/store/"
+        }
+      ],
+      message: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/message/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/message/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/stats/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/stats/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/clients/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/without-pay/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Posting
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-posting-wordpress",
+    name: "WP Auto Posting (WordPress)",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/stats/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/stats/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/without-pay/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/demo/"
+        }
+      ],
+      manager: [
+        {
+          url_external: "https://www.wp-kr.com/auto-posting/manager/",
+          url_localhost: "./../../../../wp-kr/auto-posting/manager/"
+        }
+      ]
+    }
+  },
+  {
+    id: "wp-auto-posting-tistory",
+    name: "WP Auto Posting (Tistory)",
+    category: "WP Auto Marketing System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/stats/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/stats/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/without-pay/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP Auto Seller ( Membership Blog )
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-seller-membership-blog",
+    name: "WP Auto Seller (Membership Blog)",
+    category: "WP Auto Seller System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/usage/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Content Seller System - Show More Contents
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-seller-show-more-contents",
+    name: "WP Auto Content Seller (Show More Contents)",
+    category: "WP Auto Seller System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/usage/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/"
+        }
+      ],
+      log: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/log/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/log/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/without-pay/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto Content Seller System - Download File
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-seller-download-file",
+    name: "WP Auto Content Seller (Download File)",
+    category: "WP Auto Seller System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/usage/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/"
+        }
+      ],
+      log: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/log/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/log/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/without-pay/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto Content Seller System - Send Email
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-seller-send-email",
+    name: "WP Auto Content Seller (Send Email)",
+    category: "WP Auto Seller System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/usage/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/"
+        }
+      ],
+      log: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/log/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/log/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/without-pay/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // Auto Content Seller System - Default
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-content-seller-default",
+    name: "WP Auto Content Seller (Default)",
+    category: "WP Auto Seller System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/"
+        }
+      ],
+      log: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/log/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/log/"
+        }
+      ],
+      withoutPay: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/without-pay/",
+          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/without-pay/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // Auto Blog
   // -------------------------------------------------------
   {
@@ -3537,134 +4314,6 @@ const services = [
   },
 
   // -------------------------------------------------------
-  // Auto Profile Link Page Builder
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-profile-link-page-builder",
-    name: "WP Auto Profile Link Page Builder",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/store/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/store/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/download/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/usage/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/clients/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/clients/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-profile-link-page-builder/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-profile-link-page-builder/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Money Video System
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-money-video",
-    name: "WP Auto Money Video System",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/store/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/store/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/download/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/usage/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/clients/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/clients/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-money-video/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-money-video/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Content Seller
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-seller",
-    name: "WP Auto Content Seller",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/auto-content-seller/",
-          url_localhost: "./../../../../wp-kr/auto-content-seller/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/auto-content-seller/usage/",
-          url_localhost: "./../../../../wp-kr/auto-content-seller/usage/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
   // Coupang
   // -------------------------------------------------------
   {
@@ -3799,359 +4448,6 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/kmong/tistory/",
           url_localhost: "./../../../../wp-kr/kmong/tistory/"
-        }
-      ]
-    }
-  },
-  
-  // -------------------------------------------------------
-  // Auto Content Lock System
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-lock",
-    name: "WP Auto Content Lock System",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/store/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/store/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/usage/"
-        }
-      ],
-      "sell-video-content": [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/usage/sell-video-content/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/usage/sell-video-content/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/clients/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/clients/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Content Lock System - Show More With Password
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-lock-show-more-with-password",
-    name: "WP Auto Content Lock (Show More With Password)",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/stats/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/stats/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/without-pay/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/show-more-with-password/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/show-more-with-password/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Content Lock System - Download File With Password
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-lock-download-file-with-password",
-    name: "WP Auto Content Lock (Download File With Password)",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/stats/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/stats/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/without-pay/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-lock/download-file-with-password/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-lock/download-file-with-password/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // WP Auto Seller ( Membership Blog )
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-seller-membership-blog",
-    name: "WP Auto Seller (Membership Blog)",
-    category: "WP Auto Seller System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/",
-          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/usage/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-seller-membership-blog/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-seller-membership-blog/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // Auto Content Seller System - Show More Contents
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-seller-show-more-contents",
-    name: "WP Auto Content Seller (Show More Contents)",
-    category: "WP Auto Seller System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/usage/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/"
-        }
-      ],
-      log: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/log/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/log/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/show-more-contents/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/show-more-contents/without-pay/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Content Seller System - Download File
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-seller-download-file",
-    name: "WP Auto Content Seller (Download File)",
-    category: "WP Auto Seller System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/usage/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/"
-        }
-      ],
-      log: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/log/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/log/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/download-file/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/download-file/without-pay/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Content Seller System - Send Email
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-seller-send-email",
-    name: "WP Auto Content Seller (Send Email)",
-    category: "WP Auto Seller System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/usage/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/"
-        }
-      ],
-      log: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/log/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/log/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/send-email/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/send-email/without-pay/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Content Seller System - Default
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-content-seller-default",
-    name: "WP Auto Content Seller (Default)",
-    category: "WP Auto Seller System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/"
-        }
-      ],
-      log: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/log/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/log/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-content-seller/default/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-content-seller/default/without-pay/"
         }
       ]
     }
@@ -5177,204 +5473,7 @@ const services = [
       ]
     }
   },
-  // -------------------------------------------------------
-  // Auto Redirect Link Converter
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-redirect-link-converter",
-    name: "WP Auto Redirect Link Converter",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/store/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/store/"
-        }
-      ],
-      message: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/message/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/message/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/download/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/stats/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/stats/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/clients/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/clients/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-redirect-link-converter/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/demo/"
-        }
-      ],
-      kmong: [
-        {
-          url_external: "https://wpauto.mycafe24.com/item/auto-redirect-link-converter/",
-          url_localhost: "./../../../../wp-kr/item/auto-redirect-link-converter/kmong/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto SNS Posting System
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-sns-posting",
-    name: "WP Auto SNS Posting System",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/"
-        }
-      ],
-      message: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/message/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/message/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/usage/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/clients/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/clients/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/demo/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/demo/fb/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/demo/fb/"
-        }
-      ],
-      twitter: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-sns-posting/demo/twitter/",
-          url_localhost: "./../../../../wp-kr/item/auto-sns-posting/demo/twitter/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Main Page Generator
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-main-page-generator",
-    name: "WP Auto Main Page Generator",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/store/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/store/"
-        }
-      ],
-      message: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/message/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/message/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/download/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/stats/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/stats/"
-        }
-      ],
-      clients: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/clients/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/clients/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/without-pay/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-main-page/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-main-page/demo/"
-        }
-      ]
-    }
-  },
+  
   // -------------------------------------------------------
   // Auto Redirect ( Coupang )
   // -------------------------------------------------------
@@ -5661,101 +5760,6 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/auto-scraping/manager/",
           url_localhost: "./../../../../wp-kr/auto-scraping/manager/"
-        }
-      ]
-    }
-  },
-  // -------------------------------------------------------
-  // Auto Posting
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-posting-wordpress",
-    name: "WP Auto Posting (WordPress)",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/"
-        }
-      ],
-      download: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/download/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/download/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/guide/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/guide/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/stats/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/stats/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/without-pay/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-wordpress/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-wordpress/demo/"
-        }
-      ],
-      manager: [
-        {
-          url_external: "https://www.wp-kr.com/auto-posting/manager/",
-          url_localhost: "./../../../../wp-kr/auto-posting/manager/"
-        }
-      ]
-    }
-  },
-  {
-    id: "wp-auto-posting-tistory",
-    name: "WP Auto Posting (Tistory)",
-    category: "WP Auto Marketing System",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/usage/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/stats/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/stats/"
-        }
-      ],
-      withoutPay: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/without-pay/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/without-pay/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-posting-tistory/demo/",
-          url_localhost: "./../../../../wp-kr/item/auto-posting-tistory/demo/"
         }
       ]
     }
