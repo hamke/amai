@@ -752,6 +752,12 @@ const services = [
           url_localhost: "./../../../../homepageasia/kr/viewer/"
         }
       ],
+      mobile: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/mobile/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/mobile/"
+        }
+      ],
       usage: [
         {
           url_external: "https://www.homepageasia.com/kr/viewer/usage/",
