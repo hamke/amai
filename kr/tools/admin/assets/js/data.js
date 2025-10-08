@@ -720,7 +720,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "homepageasia",
-    name: "HomepageAsia",
+    name: "HomePageAsia",
     category: "WP Agency Starter",
     links: {
       main: [
@@ -749,7 +749,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "homepageasia-viewer",
-    name: "HomepageAsia (Viewer)",
+    name: "HomePageAsia (Viewer)",
     category: "WP Agency Starter",
     links: {
       main: [
