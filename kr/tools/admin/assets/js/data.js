@@ -729,6 +729,12 @@ const services = [
           url_localhost: "./../../../../homepageasia/kr/"
         }
       ],
+      mobile: [
+        {
+          url_external: "https://www.homepageasia.com/kr/mobile/",
+          url_localhost: "./../../../../homepageasia/kr/mobile/"
+        }
+      ],
       kakao: [
         {
           url_external: "https://www.homepageasia.com/kr/kakao/",
@@ -778,8 +784,8 @@ const services = [
       ],
       mobile: [
         {
-          url_external: "https://www.homepageasia.com/kr/viewer/mobile/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/mobile/"
+          url_external: "https://www.homepageasia.com/kr/mobile/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/mobile/viewer/"
         }
       ],
       usage: [
