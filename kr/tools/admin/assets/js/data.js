@@ -729,6 +729,18 @@ const services = [
           url_localhost: "./../../../../homepageasia/kr/"
         }
       ],
+      kakao: [
+        {
+          url_external: "https://www.homepageasia.com/kr/kakao/",
+          url_localhost: "./../../../../homepageasia/kr/kakao/"
+        }
+      ],
+      fb: [
+        {
+          url_external: "https://www.homepageasia.com/kr/fb/",
+          url_localhost: "./../../../../homepageasia/kr/fb/"
+        }
+      ],
       usage: [
         {
           url_external: "https://www.homepageasia.com/kr/usage/",
