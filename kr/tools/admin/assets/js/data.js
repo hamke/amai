@@ -734,6 +734,12 @@ const services = [
           url_external: "https://www.homepageasia.com/kr/usage/",
           url_localhost: "./../../../../homepageasia/kr/usage/"
         }
+      ],
+      "why-micro-homepage": [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/why-micro-homepage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/why-micro-homepage/"
+        }
       ]
     }
   },
