@@ -735,10 +735,16 @@ const services = [
           url_localhost: "./../../../../homepageasia/kr/kakao/"
         }
       ],
-      fb: [
+      facebook: [
         {
           url_external: "https://www.homepageasia.com/kr/fb/",
           url_localhost: "./../../../../homepageasia/kr/fb/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.homepageasia.com/kr/demo/",
+          url_localhost: "./../../../../homepageasia/kr/demo/"
         }
       ],
       usage: [
