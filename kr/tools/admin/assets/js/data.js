@@ -716,6 +716,141 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // WP Agency Starter
+  // -------------------------------------------------------
+  {
+    id: "wp-agency-starter",
+    name: "WP Agency Starter",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
+          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP Agency School
+  // -------------------------------------------------------
+  {
+    id: "wp-agency-school",
+    name: "WP Agency School",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/",
+          url_localhost: "./../../../../wp-kr/agency-school/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/store/",
+          url_localhost: "./../../../../wp-kr/agency-school/store/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/guide/",
+          url_localhost: "./../../../../wp-kr/agency-school/guide/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/demo/",
+          url_localhost: "./../../../../wp-kr/agency-school/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/"
+        }
+      ],
+      "start-guide": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/start-guide/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/start-guide/"
+        }
+      ],
+      "must-have": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/must-have/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/must-have/"
+        }
+      ],
+      "why-wordpress": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/why-wordpress/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/why-wordpress/"
+        }
+      ],
+      "why-make-plugins": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/why-make-plugins/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/why-make-plugins/"
+        }
+      ],
+      "why-from-online": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/why-from-online/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/why-from-online/"
+        }
+      ],
+      "make-landing-page": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/make-landing-page/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/make-landing-page/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP-UNIV
+  // -------------------------------------------------------
+  {
+    id: "wp-univ",
+    name: "WP-Univ",
+    category: "WP Agency Starter",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-univ.com/kr/",
+          url_localhost: "./../../../../wp-univ/kr/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.homepageasia.com
   // -------------------------------------------------------
   {
@@ -810,141 +945,6 @@ const services = [
         {
           url_external: "https://www.homepageasia.com/kr/viewer/stats/",
           url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // WP-UNIV
-  // -------------------------------------------------------
-  {
-    id: "wp-univ",
-    name: "WP-Univ",
-    category: "WP Agency Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-univ.com/kr/",
-          url_localhost: "./../../../../wp-univ/kr/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // WP Agency School
-  // -------------------------------------------------------
-  {
-    id: "wp-agency-school",
-    name: "WP Agency School",
-    category: "WP Agency Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/",
-          url_localhost: "./../../../../wp-kr/agency-school/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/store/",
-          url_localhost: "./../../../../wp-kr/agency-school/store/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/guide/",
-          url_localhost: "./../../../../wp-kr/agency-school/guide/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/demo/",
-          url_localhost: "./../../../../wp-kr/agency-school/demo/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/"
-        }
-      ],
-      "start-guide": [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/start-guide/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/start-guide/"
-        }
-      ],
-      "must-have": [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/must-have/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/must-have/"
-        }
-      ],
-      "why-wordpress": [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/why-wordpress/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/why-wordpress/"
-        }
-      ],
-      "why-make-plugins": [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/why-make-plugins/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/why-make-plugins/"
-        }
-      ],
-      "why-from-online": [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/why-from-online/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/why-from-online/"
-        }
-      ],
-      "make-landing-page": [
-        {
-          url_external: "https://www.wp-kr.com/agency-school/usage/make-landing-page/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/make-landing-page/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // WP Agency Starter
-  // -------------------------------------------------------
-  {
-    id: "wp-agency-starter",
-    name: "WP Agency Starter",
-    category: "WP Agency Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/store/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/store/"
-        }
-      ],
-      guide: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/guide/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/guide/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/demo/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/demo/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/item/agency-starter/usage/",
-          url_localhost: "./../../../../wp-kr/item/agency-starter/usage/"
         }
       ]
     }
