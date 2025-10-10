@@ -6273,7 +6273,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "globaltalkasia",
-    name: "GlobalTalkAsia",
+    name: "글로벌톡아시아(GlobalTalkAsia)",
     category: "GlobalTalkAsia",
     links: {
       main: [
@@ -6296,7 +6296,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "globaltalkasia-service",
-    name: "GlobalTalkAsia (Service)",
+    name: "글로벌톡아시아 (서비스 모음)",
     category: "GlobalTalkAsia",
     links: {
       main: [
