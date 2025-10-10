@@ -6340,6 +6340,12 @@ const services = [
           url_localhost: "./../../../../koreatalk/usage/"
         }
       ],
+      data: [
+        {
+          url_external: "https://www.koreatalk.net/data/a/",
+          url_localhost: "./../../../../koreatalk/data/a/"
+        }
+      ],
       payinfo: [
         {
           url_external: "https://www.koreatalk.net/payinfo/",
@@ -6396,6 +6402,12 @@ const services = [
         {
           url_external: "https://www.usatalk.net/usage/",
           url_localhost: "./../../../../usatalk/usage/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.usatalk.net/data/a/",
+          url_localhost: "./../../../../usatalk/data/a/"
         }
       ],
       payinfo: [
@@ -6456,6 +6468,12 @@ const services = [
           url_localhost: "./../../../../chinatalk/usage/"
         }
       ],
+      data: [
+        {
+          url_external: "https://www.chinatalk.net/data/a/",
+          url_localhost: "./../../../../chinatalk/data/a/"
+        }
+      ],
       payinfo: [
         {
           url_external: "https://www.chinatalk.net/payinfo/",
@@ -6512,6 +6530,12 @@ const services = [
         {
           url_external: "https://www.japantalk.net/usage/",
           url_localhost: "./../../../../japantalk/usage/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.japantalk.net/data/a/",
+          url_localhost: "./../../../../japantalk/data/a/"
         }
       ],
       payinfo: [
@@ -6572,6 +6596,12 @@ const services = [
           url_localhost: "./../../../../taiwantalk/usage/"
         }
       ],
+      data: [
+        {
+          url_external: "https://www.taiwantalk.net/data/a/",
+          url_localhost: "./../../../../taiwantalk/data/a/"
+        }
+      ],
       payinfo: [
         {
           url_external: "https://www.taiwantalk.net/payinfo/",
@@ -6628,6 +6658,12 @@ const services = [
         {
           url_external: "https://www.vietnamtalk.net/usage/",
           url_localhost: "./../../../../vietnamtalk/usage/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.vietnamtalk.net/data/a/",
+          url_localhost: "./../../../../vietnamtalk/data/a/"
         }
       ],
       payinfo: [
@@ -6688,6 +6724,12 @@ const services = [
           url_localhost: "./../../../../australiatalk/usage/"
         }
       ],
+      data: [
+        {
+          url_external: "https://www.australiatalk.net/data/a/",
+          url_localhost: "./../../../../australiatalk/data/a/"
+        }
+      ],
       payinfo: [
         {
           url_external: "https://www.australiatalk.net/payinfo/",
@@ -6746,6 +6788,12 @@ const services = [
           url_localhost: "./../../../../malaysiatalk/usage/"
         }
       ],
+      data: [
+        {
+          url_external: "https://www.malaysiatalk.net/data/a/",
+          url_localhost: "./../../../../malaysiatalk/data/a/"
+        }
+      ],
       payinfo: [
         {
           url_external: "https://www.malaysiatalk.net/payinfo/",
@@ -6802,6 +6850,12 @@ const services = [
         {
           url_external: "https://www.indonesiatalk.net/usage/",
           url_localhost: "./../../../../indonesiatalk/usage/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.indonesiatalk.net/data/a/",
+          url_localhost: "./../../../../indonesiatalk/data/a/"
         }
       ],
       payinfo: [
