@@ -155,6 +155,29 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.automoneytalk.com/kr/service/
+  // -------------------------------------------------------
+  {
+    id: "automoneytalk-service",
+    name: "AutoMoneyTalk (Service)",
+    category: "AutoMoney AI (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/service/",
+          url_localhost: "./../../../../automoneytalk/kr/service/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/service/usage/",
+          url_localhost: "./../../../../automoneytalk/kr/service/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.automoneyai.com/kr/
   // -------------------------------------------------------
   {
@@ -6222,6 +6245,52 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/item/infinite-scroll-tistory/demo/",
           url_localhost: "./../../../../wp-kr/item/infinite-scroll-tistory/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.globaltalk.asia/kr/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia",
+    name: "GlobalTalkAsia",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/",
+          url_localhost: "./../../../../globaltalkasia/kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/usage/",
+          url_localhost: "./../../../../globaltalkasia/kr/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.globaltalk.asia/kr/service/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia-service",
+    name: "GlobalTalkAsia (Service)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/service/",
+          url_localhost: "./../../../../globaltalkasia/kr/service/"
+        }
+      ],
+      "community-management": [
+        {
+          url_external: "https://www.globaltalk.asia/kr/service/community-management/",
+          url_localhost: "./../../../../globaltalkasia/kr/service/community-management/"
         }
       ]
     }
