@@ -14,6 +14,12 @@ const services = [
           url_localhost: "./../../../../moneyskilltalk/kr/"
         }
       ],
+      usage: [
+        {
+          url_external: "https://www.moneyskilltalk.com/kr/usage/",
+          url_localhost: "./../../../../moneyskilltalk/kr/usage/"
+        }
+      ],
       links: [
         {
           url_external: "https://www.moneyskilltalk.com/kr/links/",
@@ -83,6 +89,12 @@ const services = [
         {
           url_external: "https://www.automoneytalk.com/kr/",
           url_localhost: "./../../../../automoneytalk/kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.automoneytalk.com/kr/usage/",
+          url_localhost: "./../../../../automoneytalk/kr/usage/"
         }
       ],
       links: [
@@ -172,6 +184,12 @@ const services = [
         {
           url_external: "https://www.automoneytalk.com/kr/service/usage/",
           url_localhost: "./../../../../automoneytalk/kr/service/usage/"
+        }
+      ],
+      "community-management": [
+        {
+          url_external: "https://www.automoneytalk.com/kr/service/community-management/",
+          url_localhost: "./../../../../automoneytalk/kr/service/community-management/"
         }
       ]
     }
@@ -6285,6 +6303,12 @@ const services = [
         {
           url_external: "https://www.globaltalk.asia/kr/service/",
           url_localhost: "./../../../../globaltalkasia/kr/service/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/service/usage/",
+          url_localhost: "./../../../../globaltalkasia/kr/service/usage/"
         }
       ],
       "community-management": [
