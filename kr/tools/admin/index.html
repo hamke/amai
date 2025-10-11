@@ -185,11 +185,20 @@
         <div id="dashboard"></div>
 
         <button id="scrollTopBtn"
-            class="fixed bottom-6 right-6 p-2 rounded-full bg-gray-800 text-white shadow-lg hover:bg-gray-700 focus:outline-none z-50"
+            class="fixed bottom-16 right-6 p-2 rounded-full bg-gray-800 text-white shadow-lg hover:bg-gray-700 focus:outline-none z-50"
             title="Scroll Up" aria-label="Scroll to top">
             <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2"
                 stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                 <path d="M12 19V6m0 0l-7 7m7-7l7 7" />
+            </svg>
+        </button>
+
+        <button id="scrollBottomBtn"
+            class="fixed bottom-6 right-6 p-2 rounded-full bg-gray-800 text-white shadow-lg hover:bg-gray-700 focus:outline-none z-50"
+            title="Scroll Down" aria-label="Scroll to bottom">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" stroke="currentColor"
+                stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                <path d="M12 5v13m0 0l-7-7m7 7l7-7"></path>
             </svg>
         </button>
 
@@ -581,19 +590,35 @@
 
     <script>
         const scrollTopBtn = document.getElementById('scrollTopBtn');
+        const scrollBottomBtn = document.getElementById('scrollBottomBtn');
 
         window.addEventListener('scroll', () => {
+
+            const nearTop = window.scrollY <= 100;
+            const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
+
             if (window.scrollY > 100) {
                 scrollTopBtn.classList.remove('hidden');
             } else {
                 scrollTopBtn.classList.add('hidden');
             }
+
+            if (nearBottom) {
+                scrollBottomBtn.classList.add('hidden');
+            } else {
+                scrollBottomBtn.classList.remove('hidden');
+            }
         });
 
         scrollTopBtn.classList.add('hidden');
+        scrollBottomBtn.classList.add('hidden');
 
         scrollTopBtn.addEventListener('click', () => {
             window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        scrollBottomBtn.addEventListener('click', () => {
+            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
         });
     </script>
 
