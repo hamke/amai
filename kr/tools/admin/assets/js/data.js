@@ -6346,6 +6346,12 @@ const services = [
           url_localhost: "./../../../../koreatalk/store/"
         }
       ],
+      school: [
+        {
+          url_external: "https://www.koreatalk.net/school/",
+          url_localhost: "./../../../../koreatalk/school/"
+        }
+      ],
       data: [
         {
           url_external: "https://www.koreatalk.net/data/a/",
