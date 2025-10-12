@@ -6422,6 +6422,12 @@ const services = [
           url_localhost: "./../../../../usatalk/store/"
         }
       ],
+      school: [
+        {
+          url_external: "https://www.usatalk.net/school/",
+          url_localhost: "./../../../../usatalk/school/"
+        }
+      ],
       data: [
         {
           url_external: "https://www.usatalk.net/data/a/",
@@ -6490,6 +6496,12 @@ const services = [
         {
           url_external: "https://www.chinatalk.net/store/",
           url_localhost: "./../../../../chinatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.chinatalk.net/school/",
+          url_localhost: "./../../../../chinatalk/school/"
         }
       ],
       data: [
@@ -6562,6 +6574,12 @@ const services = [
           url_localhost: "./../../../../japantalk/store/"
         }
       ],
+      school: [
+        {
+          url_external: "https://www.japantalk.net/school/",
+          url_localhost: "./../../../../japantalk/school/"
+        }
+      ],
       data: [
         {
           url_external: "https://www.japantalk.net/data/a/",
@@ -6630,6 +6648,12 @@ const services = [
         {
           url_external: "https://www.taiwantalk.net/store/",
           url_localhost: "./../../../../taiwantalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.taiwantalk.net/school/",
+          url_localhost: "./../../../../taiwantalk/school/"
         }
       ],
       data: [
@@ -6702,6 +6726,12 @@ const services = [
           url_localhost: "./../../../../vietnamtalk/store/"
         }
       ],
+      school: [
+        {
+          url_external: "https://www.vietnamtalk.net/school/",
+          url_localhost: "./../../../../vietnamtalk/school/"
+        }
+      ],
       data: [
         {
           url_external: "https://www.vietnamtalk.net/data/a/",
@@ -6770,6 +6800,12 @@ const services = [
         {
           url_external: "https://www.australiatalk.net/store/",
           url_localhost: "./../../../../australiatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.australiatalk.net/school/",
+          url_localhost: "./../../../../australiatalk/school/"
         }
       ],
       data: [
@@ -6842,6 +6878,12 @@ const services = [
           url_localhost: "./../../../../malaysiatalk/store/"
         }
       ],
+      school: [
+        {
+          url_external: "https://www.malaysiatalk.net/school/",
+          url_localhost: "./../../../../malaysiatalk/school/"
+        }
+      ],
       data: [
         {
           url_external: "https://www.malaysiatalk.net/data/a/",
@@ -6910,6 +6952,12 @@ const services = [
         {
           url_external: "https://www.indonesiatalk.net/store/",
           url_localhost: "./../../../../indonesiatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.indonesiatalk.net/school/",
+          url_localhost: "./../../../../indonesiatalk/school/"
         }
       ],
       data: [
