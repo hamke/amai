@@ -360,6 +360,843 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.globaltalk.asia/kr/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia",
+    name: "글로벌톡아시아(GlobalTalkAsia)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/",
+          url_localhost: "./../../../../globaltalkasia/kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/usage/",
+          url_localhost: "./../../../../globaltalkasia/kr/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.globaltalk.asia/kr/service/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia-service",
+    name: "글로벌톡아시아 (서비스 모음)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/service/",
+          url_localhost: "./../../../../globaltalkasia/kr/service/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/service/usage/",
+          url_localhost: "./../../../../globaltalkasia/kr/service/usage/"
+        }
+      ],
+      "community-management": [
+        {
+          url_external: "https://www.globaltalk.asia/kr/service/community-management/",
+          url_localhost: "./../../../../globaltalkasia/kr/service/community-management/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.homepageasia.com
+  // -------------------------------------------------------
+  {
+    id: "homepageasia",
+    name: "홈페이지아시아(HomePageAsia)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.homepageasia.com/kr/",
+          url_localhost: "./../../../../homepageasia/kr/"
+        }
+      ],
+      mobile: [
+        {
+          url_external: "https://www.homepageasia.com/kr/mobile/",
+          url_localhost: "./../../../../homepageasia/kr/mobile/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.homepageasia.com/kr/kakao/",
+          url_localhost: "./../../../../homepageasia/kr/kakao/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.homepageasia.com/kr/fb/",
+          url_localhost: "./../../../../homepageasia/kr/fb/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.homepageasia.com/kr/demo/",
+          url_localhost: "./../../../../homepageasia/kr/demo/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/"
+        }
+      ],
+      "why-micro-homepage": [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/why-micro-homepage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/why-micro-homepage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.homepageasia.com (Viewer)
+  // -------------------------------------------------------
+  {
+    id: "homepageasia-viewer",
+    name: "홈페이지아시아(HomePageAsia/Viewer)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/"
+        }
+      ],
+      mobile: [
+        {
+          url_external: "https://www.homepageasia.com/kr/mobile/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/mobile/viewer/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/usage/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
+        }
+      ],
+      blocked: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/blocked/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/blocked/"
+        }
+      ],
+      reported: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/reported/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/reported/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.homepageasia.com/kr/viewer/stats/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
+        }
+      ]
+    }
+  },
+  
+  // -------------------------------------------------------
+  // www.koreatalk.net
+  // -------------------------------------------------------
+  {
+    id: "koreatalk-net",
+    name: "코리아톡 (KoreaTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.koreatalk.net/",
+          url_localhost: "./../../../../koreatalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.koreatalk.net/usage/",
+          url_localhost: "./../../../../koreatalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.koreatalk.net/store/",
+          url_localhost: "./../../../../koreatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.koreatalk.net/school/",
+          url_localhost: "./../../../../koreatalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.koreatalk.net/data/a/",
+          url_localhost: "./../../../../koreatalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.koreatalk.net/payinfo/",
+          url_localhost: "./../../../../koreatalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.koreatalk.net/kakao/",
+          url_localhost: "./../../../../koreatalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.koreatalk.net/ig/",
+          url_localhost: "./../../../../koreatalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.koreatalk.net/fb.kr/",
+          url_localhost: "./../../../../koreatalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.koreatalk.net/threads/",
+          url_localhost: "./../../../../koreatalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.koreatalk.net/naver-blog/",
+          url_localhost: "./../../../../koreatalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.usatalk.net
+  // -------------------------------------------------------
+  {
+    id: "usatalk-net",
+    name: "미국톡 (USATalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.usatalk.net/",
+          url_localhost: "./../../../../usatalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.usatalk.net/usage/",
+          url_localhost: "./../../../../usatalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.usatalk.net/store/",
+          url_localhost: "./../../../../usatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.usatalk.net/school/",
+          url_localhost: "./../../../../usatalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.usatalk.net/data/a/",
+          url_localhost: "./../../../../usatalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.usatalk.net/payinfo/",
+          url_localhost: "./../../../../usatalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.usatalk.net/kakao/",
+          url_localhost: "./../../../../usatalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.usatalk.net/ig/",
+          url_localhost: "./../../../../usatalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.usatalk.net/fb.kr/",
+          url_localhost: "./../../../../usatalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.usatalk.net/threads/",
+          url_localhost: "./../../../../usatalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.usatalk.net/naver-blog/",
+          url_localhost: "./../../../../usatalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.chinatalk.net
+  // -------------------------------------------------------
+  {
+    id: "chinatalk-net",
+    name: "차이나톡 (ChinaTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.chinatalk.net/",
+          url_localhost: "./../../../../chinatalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.chinatalk.net/usage/",
+          url_localhost: "./../../../../chinatalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.chinatalk.net/store/",
+          url_localhost: "./../../../../chinatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.chinatalk.net/school/",
+          url_localhost: "./../../../../chinatalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.chinatalk.net/data/a/",
+          url_localhost: "./../../../../chinatalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.chinatalk.net/payinfo/",
+          url_localhost: "./../../../../chinatalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.chinatalk.net/kakao/",
+          url_localhost: "./../../../../chinatalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.chinatalk.net/ig/",
+          url_localhost: "./../../../../chinatalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.chinatalk.net/fb.kr/",
+          url_localhost: "./../../../../chinatalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.chinatalk.net/threads/",
+          url_localhost: "./../../../../chinatalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.chinatalk.net/naver-blog/",
+          url_localhost: "./../../../../chinatalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.japantalk.net
+  // -------------------------------------------------------
+  {
+    id: "japantalk-net",
+    name: "재팬톡 (JapanTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.japantalk.net/",
+          url_localhost: "./../../../../japantalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.japantalk.net/usage/",
+          url_localhost: "./../../../../japantalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.japantalk.net/store/",
+          url_localhost: "./../../../../japantalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.japantalk.net/school/",
+          url_localhost: "./../../../../japantalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.japantalk.net/data/a/",
+          url_localhost: "./../../../../japantalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.japantalk.net/payinfo/",
+          url_localhost: "./../../../../japantalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.japantalk.net/kakao/",
+          url_localhost: "./../../../../japantalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.japantalk.net/ig/",
+          url_localhost: "./../../../../japantalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.japantalk.net/fb.kr/",
+          url_localhost: "./../../../../japantalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.japantalk.net/threads/",
+          url_localhost: "./../../../../japantalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.japantalk.net/naver-blog/",
+          url_localhost: "./../../../../japantalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.taiwantalk.net
+  // -------------------------------------------------------
+  {
+    id: "taiwantalk-net",
+    name: "타이완톡 (TaiwanTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.taiwantalk.net/",
+          url_localhost: "./../../../../taiwantalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.taiwantalk.net/usage/",
+          url_localhost: "./../../../../taiwantalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.taiwantalk.net/store/",
+          url_localhost: "./../../../../taiwantalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.taiwantalk.net/school/",
+          url_localhost: "./../../../../taiwantalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.taiwantalk.net/data/a/",
+          url_localhost: "./../../../../taiwantalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.taiwantalk.net/payinfo/",
+          url_localhost: "./../../../../taiwantalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.taiwantalk.net/kakao/",
+          url_localhost: "./../../../../taiwantalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.taiwantalk.net/ig/",
+          url_localhost: "./../../../../taiwantalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.taiwantalk.net/fb.kr/",
+          url_localhost: "./../../../../taiwantalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.taiwantalk.net/threads/",
+          url_localhost: "./../../../../taiwantalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.taiwantalk.net/naver-blog/",
+          url_localhost: "./../../../../taiwantalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.vietnamtalk.net
+  // -------------------------------------------------------
+  {
+    id: "vietnamtalk-net",
+    name: "베트남톡 (VietnamTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.vietnamtalk.net/",
+          url_localhost: "./../../../../vietnamtalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.vietnamtalk.net/usage/",
+          url_localhost: "./../../../../vietnamtalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.vietnamtalk.net/store/",
+          url_localhost: "./../../../../vietnamtalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.vietnamtalk.net/school/",
+          url_localhost: "./../../../../vietnamtalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.vietnamtalk.net/data/a/",
+          url_localhost: "./../../../../vietnamtalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.vietnamtalk.net/payinfo/",
+          url_localhost: "./../../../../vietnamtalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.vietnamtalk.net/kakao/",
+          url_localhost: "./../../../../vietnamtalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.vietnamtalk.net/ig/",
+          url_localhost: "./../../../../vietnamtalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.vietnamtalk.net/fb.kr/",
+          url_localhost: "./../../../../vietnamtalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.vietnamtalk.net/threads/",
+          url_localhost: "./../../../../vietnamtalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.vietnamtalk.net/naver-blog/",
+          url_localhost: "./../../../../vietnamtalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.australiatalk.net
+  // -------------------------------------------------------
+  {
+    id: "australiatalk-net",
+    name: "호주톡 (AustraliaTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.australiatalk.net/",
+          url_localhost: "./../../../../australiatalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.australiatalk.net/usage/",
+          url_localhost: "./../../../../australiatalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.australiatalk.net/store/",
+          url_localhost: "./../../../../australiatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.australiatalk.net/school/",
+          url_localhost: "./../../../../australiatalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.australiatalk.net/data/a/",
+          url_localhost: "./../../../../australiatalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.australiatalk.net/payinfo/",
+          url_localhost: "./../../../../australiatalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.australiatalk.net/kakao/",
+          url_localhost: "./../../../../australiatalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.australiatalk.net/ig/",
+          url_localhost: "./../../../../australiatalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.australiatalk.net/fb.kr/",
+          url_localhost: "./../../../../australiatalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.australiatalk.net/threads/",
+          url_localhost: "./../../../../australiatalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.australiatalk.net/naver-blog/",
+          url_localhost: "./../../../../australiatalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.malaysiatalk.net
+  // -------------------------------------------------------
+  {
+    id: "malaysiatalk-net",
+    name: "말레이시아톡 (MalaysiaTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.malaysiatalk.net/",
+          url_localhost: "./../../../../malaysiatalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.malaysiatalk.net/usage/",
+          url_localhost: "./../../../../malaysiatalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.malaysiatalk.net/store/",
+          url_localhost: "./../../../../malaysiatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.malaysiatalk.net/school/",
+          url_localhost: "./../../../../malaysiatalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.malaysiatalk.net/data/a/",
+          url_localhost: "./../../../../malaysiatalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.malaysiatalk.net/payinfo/",
+          url_localhost: "./../../../../malaysiatalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.malaysiatalk.net/kakao/",
+          url_localhost: "./../../../../malaysiatalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.malaysiatalk.net/ig/",
+          url_localhost: "./../../../../malaysiatalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.malaysiatalk.net/fb.kr/",
+          url_localhost: "./../../../../malaysiatalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.malaysiatalk.net/threads/",
+          url_localhost: "./../../../../malaysiatalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.malaysiatalk.net/naver-blog/",
+          url_localhost: "./../../../../malaysiatalk/naver-blog/"
+        }
+      ],
+    }
+  },
+  // -------------------------------------------------------
+  // www.indonesiatalk.net
+  // -------------------------------------------------------
+  {
+    id: "indonesiatalk-net",
+    name: "인도네시아톡 (IndonesiaTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.indonesiatalk.net/",
+          url_localhost: "./../../../../indonesiatalk/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.indonesiatalk.net/usage/",
+          url_localhost: "./../../../../indonesiatalk/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.indonesiatalk.net/store/",
+          url_localhost: "./../../../../indonesiatalk/store/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.indonesiatalk.net/school/",
+          url_localhost: "./../../../../indonesiatalk/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.indonesiatalk.net/data/a/",
+          url_localhost: "./../../../../indonesiatalk/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.indonesiatalk.net/payinfo/",
+          url_localhost: "./../../../../indonesiatalk/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.indonesiatalk.net/kakao/",
+          url_localhost: "./../../../../indonesiatalk/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.indonesiatalk.net/ig/",
+          url_localhost: "./../../../../indonesiatalk/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.indonesiatalk.net/fb.kr/",
+          url_localhost: "./../../../../indonesiatalk/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.indonesiatalk.net/threads/",
+          url_localhost: "./../../../../indonesiatalk/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.indonesiatalk.net/naver-blog/",
+          url_localhost: "./../../../../indonesiatalk/naver-blog/"
+        }
+      ],
+    }
+  },
+
+  // -------------------------------------------------------
   // www.wp-talk.com
   // -------------------------------------------------------
   {
@@ -886,106 +1723,6 @@ const services = [
         {
           url_external: "https://www.wp-univ.com/kr/",
           url_localhost: "./../../../../wp-univ/kr/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.homepageasia.com
-  // -------------------------------------------------------
-  {
-    id: "homepageasia",
-    name: "HomePageAsia",
-    category: "WP Agency Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.homepageasia.com/kr/",
-          url_localhost: "./../../../../homepageasia/kr/"
-        }
-      ],
-      mobile: [
-        {
-          url_external: "https://www.homepageasia.com/kr/mobile/",
-          url_localhost: "./../../../../homepageasia/kr/mobile/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.homepageasia.com/kr/kakao/",
-          url_localhost: "./../../../../homepageasia/kr/kakao/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.homepageasia.com/kr/fb/",
-          url_localhost: "./../../../../homepageasia/kr/fb/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.homepageasia.com/kr/demo/",
-          url_localhost: "./../../../../homepageasia/kr/demo/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.homepageasia.com/kr/usage/",
-          url_localhost: "./../../../../homepageasia/kr/usage/"
-        }
-      ],
-      "why-micro-homepage": [
-        {
-          url_external: "https://www.homepageasia.com/kr/usage/why-micro-homepage/",
-          url_localhost: "./../../../../homepageasia/kr/usage/why-micro-homepage/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.homepageasia.com (Viewer)
-  // -------------------------------------------------------
-  {
-    id: "homepageasia-viewer",
-    name: "HomePageAsia (Viewer)",
-    category: "WP Agency Starter",
-    links: {
-      main: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/"
-        }
-      ],
-      mobile: [
-        {
-          url_external: "https://www.homepageasia.com/kr/mobile/viewer/",
-          url_localhost: "./../../../../homepageasia/kr/mobile/viewer/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/usage/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
-        }
-      ],
-      blocked: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/blocked/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/blocked/"
-        }
-      ],
-      reported: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/reported/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/reported/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.homepageasia.com/kr/viewer/stats/",
-          url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
         }
       ]
     }
@@ -6265,743 +7002,6 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/infinite-scroll-tistory/demo/"
         }
       ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.globaltalk.asia/kr/
-  // -------------------------------------------------------
-  {
-    id: "globaltalkasia",
-    name: "글로벌톡아시아(GlobalTalkAsia)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.globaltalk.asia/kr/",
-          url_localhost: "./../../../../globaltalkasia/kr/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.globaltalk.asia/kr/usage/",
-          url_localhost: "./../../../../globaltalkasia/kr/usage/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.globaltalk.asia/kr/service/
-  // -------------------------------------------------------
-  {
-    id: "globaltalkasia-service",
-    name: "글로벌톡아시아 (서비스 모음)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.globaltalk.asia/kr/service/",
-          url_localhost: "./../../../../globaltalkasia/kr/service/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.globaltalk.asia/kr/service/usage/",
-          url_localhost: "./../../../../globaltalkasia/kr/service/usage/"
-        }
-      ],
-      "community-management": [
-        {
-          url_external: "https://www.globaltalk.asia/kr/service/community-management/",
-          url_localhost: "./../../../../globaltalkasia/kr/service/community-management/"
-        }
-      ]
-    }
-  },
-  
-  // -------------------------------------------------------
-  // www.koreatalk.net
-  // -------------------------------------------------------
-  {
-    id: "koreatalk-net",
-    name: "코리아톡 (KoreaTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.koreatalk.net/",
-          url_localhost: "./../../../../koreatalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.koreatalk.net/usage/",
-          url_localhost: "./../../../../koreatalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.koreatalk.net/store/",
-          url_localhost: "./../../../../koreatalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.koreatalk.net/school/",
-          url_localhost: "./../../../../koreatalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.koreatalk.net/data/a/",
-          url_localhost: "./../../../../koreatalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.koreatalk.net/payinfo/",
-          url_localhost: "./../../../../koreatalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.koreatalk.net/kakao/",
-          url_localhost: "./../../../../koreatalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.koreatalk.net/ig/",
-          url_localhost: "./../../../../koreatalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.koreatalk.net/fb.kr/",
-          url_localhost: "./../../../../koreatalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.koreatalk.net/threads/",
-          url_localhost: "./../../../../koreatalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.koreatalk.net/naver-blog/",
-          url_localhost: "./../../../../koreatalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.usatalk.net
-  // -------------------------------------------------------
-  {
-    id: "usatalk-net",
-    name: "미국톡 (USATalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.usatalk.net/",
-          url_localhost: "./../../../../usatalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.usatalk.net/usage/",
-          url_localhost: "./../../../../usatalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.usatalk.net/store/",
-          url_localhost: "./../../../../usatalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.usatalk.net/school/",
-          url_localhost: "./../../../../usatalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.usatalk.net/data/a/",
-          url_localhost: "./../../../../usatalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.usatalk.net/payinfo/",
-          url_localhost: "./../../../../usatalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.usatalk.net/kakao/",
-          url_localhost: "./../../../../usatalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.usatalk.net/ig/",
-          url_localhost: "./../../../../usatalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.usatalk.net/fb.kr/",
-          url_localhost: "./../../../../usatalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.usatalk.net/threads/",
-          url_localhost: "./../../../../usatalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.usatalk.net/naver-blog/",
-          url_localhost: "./../../../../usatalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.chinatalk.net
-  // -------------------------------------------------------
-  {
-    id: "chinatalk-net",
-    name: "차이나톡 (ChinaTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.chinatalk.net/",
-          url_localhost: "./../../../../chinatalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.chinatalk.net/usage/",
-          url_localhost: "./../../../../chinatalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.chinatalk.net/store/",
-          url_localhost: "./../../../../chinatalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.chinatalk.net/school/",
-          url_localhost: "./../../../../chinatalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.chinatalk.net/data/a/",
-          url_localhost: "./../../../../chinatalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.chinatalk.net/payinfo/",
-          url_localhost: "./../../../../chinatalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.chinatalk.net/kakao/",
-          url_localhost: "./../../../../chinatalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.chinatalk.net/ig/",
-          url_localhost: "./../../../../chinatalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.chinatalk.net/fb.kr/",
-          url_localhost: "./../../../../chinatalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.chinatalk.net/threads/",
-          url_localhost: "./../../../../chinatalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.chinatalk.net/naver-blog/",
-          url_localhost: "./../../../../chinatalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.japantalk.net
-  // -------------------------------------------------------
-  {
-    id: "japantalk-net",
-    name: "재팬톡 (JapanTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.japantalk.net/",
-          url_localhost: "./../../../../japantalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.japantalk.net/usage/",
-          url_localhost: "./../../../../japantalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.japantalk.net/store/",
-          url_localhost: "./../../../../japantalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.japantalk.net/school/",
-          url_localhost: "./../../../../japantalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.japantalk.net/data/a/",
-          url_localhost: "./../../../../japantalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.japantalk.net/payinfo/",
-          url_localhost: "./../../../../japantalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.japantalk.net/kakao/",
-          url_localhost: "./../../../../japantalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.japantalk.net/ig/",
-          url_localhost: "./../../../../japantalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.japantalk.net/fb.kr/",
-          url_localhost: "./../../../../japantalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.japantalk.net/threads/",
-          url_localhost: "./../../../../japantalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.japantalk.net/naver-blog/",
-          url_localhost: "./../../../../japantalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.taiwantalk.net
-  // -------------------------------------------------------
-  {
-    id: "taiwantalk-net",
-    name: "타이완톡 (TaiwanTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.taiwantalk.net/",
-          url_localhost: "./../../../../taiwantalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.taiwantalk.net/usage/",
-          url_localhost: "./../../../../taiwantalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.taiwantalk.net/store/",
-          url_localhost: "./../../../../taiwantalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.taiwantalk.net/school/",
-          url_localhost: "./../../../../taiwantalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.taiwantalk.net/data/a/",
-          url_localhost: "./../../../../taiwantalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.taiwantalk.net/payinfo/",
-          url_localhost: "./../../../../taiwantalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.taiwantalk.net/kakao/",
-          url_localhost: "./../../../../taiwantalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.taiwantalk.net/ig/",
-          url_localhost: "./../../../../taiwantalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.taiwantalk.net/fb.kr/",
-          url_localhost: "./../../../../taiwantalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.taiwantalk.net/threads/",
-          url_localhost: "./../../../../taiwantalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.taiwantalk.net/naver-blog/",
-          url_localhost: "./../../../../taiwantalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.vietnamtalk.net
-  // -------------------------------------------------------
-  {
-    id: "vietnamtalk-net",
-    name: "베트남톡 (VietnamTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.vietnamtalk.net/",
-          url_localhost: "./../../../../vietnamtalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.vietnamtalk.net/usage/",
-          url_localhost: "./../../../../vietnamtalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.vietnamtalk.net/store/",
-          url_localhost: "./../../../../vietnamtalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.vietnamtalk.net/school/",
-          url_localhost: "./../../../../vietnamtalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.vietnamtalk.net/data/a/",
-          url_localhost: "./../../../../vietnamtalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.vietnamtalk.net/payinfo/",
-          url_localhost: "./../../../../vietnamtalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.vietnamtalk.net/kakao/",
-          url_localhost: "./../../../../vietnamtalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.vietnamtalk.net/ig/",
-          url_localhost: "./../../../../vietnamtalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.vietnamtalk.net/fb.kr/",
-          url_localhost: "./../../../../vietnamtalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.vietnamtalk.net/threads/",
-          url_localhost: "./../../../../vietnamtalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.vietnamtalk.net/naver-blog/",
-          url_localhost: "./../../../../vietnamtalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.australiatalk.net
-  // -------------------------------------------------------
-  {
-    id: "australiatalk-net",
-    name: "호주톡 (AustraliaTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.australiatalk.net/",
-          url_localhost: "./../../../../australiatalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.australiatalk.net/usage/",
-          url_localhost: "./../../../../australiatalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.australiatalk.net/store/",
-          url_localhost: "./../../../../australiatalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.australiatalk.net/school/",
-          url_localhost: "./../../../../australiatalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.australiatalk.net/data/a/",
-          url_localhost: "./../../../../australiatalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.australiatalk.net/payinfo/",
-          url_localhost: "./../../../../australiatalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.australiatalk.net/kakao/",
-          url_localhost: "./../../../../australiatalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.australiatalk.net/ig/",
-          url_localhost: "./../../../../australiatalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.australiatalk.net/fb.kr/",
-          url_localhost: "./../../../../australiatalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.australiatalk.net/threads/",
-          url_localhost: "./../../../../australiatalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.australiatalk.net/naver-blog/",
-          url_localhost: "./../../../../australiatalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.malaysiatalk.net
-  // -------------------------------------------------------
-  {
-    id: "malaysiatalk-net",
-    name: "말레이시아톡 (MalaysiaTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.malaysiatalk.net/",
-          url_localhost: "./../../../../malaysiatalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.malaysiatalk.net/usage/",
-          url_localhost: "./../../../../malaysiatalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.malaysiatalk.net/store/",
-          url_localhost: "./../../../../malaysiatalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.malaysiatalk.net/school/",
-          url_localhost: "./../../../../malaysiatalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.malaysiatalk.net/data/a/",
-          url_localhost: "./../../../../malaysiatalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.malaysiatalk.net/payinfo/",
-          url_localhost: "./../../../../malaysiatalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.malaysiatalk.net/kakao/",
-          url_localhost: "./../../../../malaysiatalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.malaysiatalk.net/ig/",
-          url_localhost: "./../../../../malaysiatalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.malaysiatalk.net/fb.kr/",
-          url_localhost: "./../../../../malaysiatalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.malaysiatalk.net/threads/",
-          url_localhost: "./../../../../malaysiatalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.malaysiatalk.net/naver-blog/",
-          url_localhost: "./../../../../malaysiatalk/naver-blog/"
-        }
-      ],
-    }
-  },
-  // -------------------------------------------------------
-  // www.indonesiatalk.net
-  // -------------------------------------------------------
-  {
-    id: "indonesiatalk-net",
-    name: "인도네시아톡 (IndonesiaTalk)",
-    category: "GlobalTalkAsia",
-    links: {
-      main: [
-        {
-          url_external: "https://www.indonesiatalk.net/",
-          url_localhost: "./../../../../indonesiatalk/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.indonesiatalk.net/usage/",
-          url_localhost: "./../../../../indonesiatalk/usage/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.indonesiatalk.net/store/",
-          url_localhost: "./../../../../indonesiatalk/store/"
-        }
-      ],
-      school: [
-        {
-          url_external: "https://www.indonesiatalk.net/school/",
-          url_localhost: "./../../../../indonesiatalk/school/"
-        }
-      ],
-      data: [
-        {
-          url_external: "https://www.indonesiatalk.net/data/a/",
-          url_localhost: "./../../../../indonesiatalk/data/a/"
-        }
-      ],
-      payinfo: [
-        {
-          url_external: "https://www.indonesiatalk.net/payinfo/",
-          url_localhost: "./../../../../indonesiatalk/payinfo/"
-        }
-      ],
-      kakao: [
-        {
-          url_external: "https://www.indonesiatalk.net/kakao/",
-          url_localhost: "./../../../../indonesiatalk/kakao/"
-        }
-      ],
-      instagram: [
-        {
-          url_external: "https://www.indonesiatalk.net/ig/",
-          url_localhost: "./../../../../indonesiatalk/ig/"
-        }
-      ],
-      facebook: [
-        {
-          url_external: "https://www.indonesiatalk.net/fb.kr/",
-          url_localhost: "./../../../../indonesiatalk/fb.kr/"
-        }
-      ],
-      threads: [
-        {
-          url_external: "https://www.indonesiatalk.net/threads/",
-          url_localhost: "./../../../../indonesiatalk/threads/"
-        }
-      ],
-      "naver-blog": [
-        {
-          url_external: "https://www.indonesiatalk.net/naver-blog/",
-          url_localhost: "./../../../../indonesiatalk/naver-blog/"
-        }
-      ],
     }
   }
 ];
