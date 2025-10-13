@@ -397,6 +397,12 @@ const services = [
           url_localhost: "./../../../../globaltalkasia/kr/fb/"
         }
       ],
+      blog: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/blog/",
+          url_localhost: "./../../../../globaltalkasia/kr/blog/"
+        }
+      ],
       usage: [
         {
           url_external: "https://www.globaltalk.asia/kr/usage/",
