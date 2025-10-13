@@ -591,6 +591,12 @@ const services = [
           url_localhost: "./../../../../koreatalk/kakao/"
         }
       ],
+      youtube: [
+        {
+          url_external: "https://www.koreatalk.net/yt/",
+          url_localhost: "./../../../../koreatalk/yt/"
+        }
+      ],
       instagram: [
         {
           url_external: "https://www.koreatalk.net/ig/",
