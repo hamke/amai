@@ -611,7 +611,7 @@ const services = [
       ],
       facebook: [
         {
-          url_external: "https://www.koreatalk.net/fb/",
+          url_external: "https://www.koreatalk.net/fb.kr/",
           url_localhost: "./../../../../koreatalk/fb/"
         }
       ],
