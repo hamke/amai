@@ -373,6 +373,12 @@ const services = [
           url_localhost: "./../../../../globaltalkasia/kr/"
         }
       ],
+      kakao: [
+        {
+          url_external: "https://www.globaltalk.asia/kr/kakao/",
+          url_localhost: "./../../../../globaltalkasia/kr/kakao/"
+        }
+      ],
       marketing: [
         {
           url_external: "https://www.globaltalk.asia/kr/marketing/",
