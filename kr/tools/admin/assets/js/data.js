@@ -2307,26 +2307,26 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-community-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-community-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/demo/"
         }
       ],
       "demo-00": [
         {
-          url_external: "https://www.wp-kr.com/auto-community-starter/demo/00/",
-          url_localhost: "./../../../../wp-kr/auto-community-starter/demo/00/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/demo/00/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/demo/00/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-community-starter/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-community-starter/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/demo/01/"
         }
       ],
       "demo-kmong": [
         {
-          url_external: "https://www.wp-kr.com/auto-community-starter/demo/kmong/",
-          url_localhost: "./../../../../wp-kr/auto-community-starter/demo/kmong/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/demo/kmong/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/demo/kmong/"
         }
       ]
     }
@@ -2389,8 +2389,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-academy-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-academy-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-academy-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-academy-starter/demo/"
         }
       ]
     }
@@ -2447,8 +2447,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-store-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-store-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-store-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-store-starter/demo/"
         }
       ]
     }
@@ -2505,8 +2505,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-export-store-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-export-store-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-export-store-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-export-store-starter/demo/"
         }
       ]
     }
@@ -2563,8 +2563,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-content-store-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-content-store-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-content-store-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-content-store-starter/demo/"
         }
       ]
     }
@@ -2621,8 +2621,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-seller-premium-articles/demo/",
-          url_localhost: "./../../../../wp-kr/auto-seller-premium-articles/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-seller-premium-articles/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-premium-articles/demo/"
         }
       ]
     }
@@ -2685,8 +2685,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-seller-ebook-store/demo/",
-          url_localhost: "./../../../../wp-kr/auto-seller-ebook-store/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-seller-ebook-store/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-ebook-store/demo/"
         }
       ]
     }
@@ -2749,8 +2749,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-seller-ebook-store-business/demo/",
-          url_localhost: "./../../../../wp-kr/auto-seller-ebook-store-business/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-seller-ebook-store-business/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-ebook-store-business/demo/"
         }
       ]
     }
@@ -2807,8 +2807,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-seller-ebook-store-personal/demo/",
-          url_localhost: "./../../../../wp-kr/auto-seller-ebook-store-personal/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-seller-ebook-store-personal/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-ebook-store-personal/demo/"
         }
       ]
     }
@@ -2865,8 +2865,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-seller-ebook-store-paypal/demo/",
-          url_localhost: "./../../../../wp-kr/auto-seller-ebook-store-paypal/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-seller-ebook-store-paypal/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-seller-ebook-store-paypal/demo/"
         }
       ]
     }
@@ -2929,8 +2929,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-ebook-viewer/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-ebook-viewer/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-ebook-viewer/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-ebook-viewer/demo/"
         }
       ]
     }
@@ -2981,8 +2981,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-trading-system-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-trading-system-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-trading-system-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-trading-system-starter/demo/"
         }
       ]
     }
@@ -3039,8 +3039,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-system-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-system-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-system-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-system-starter/demo/"
         }
       ]
     }
@@ -3090,14 +3090,14 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-store-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-store-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-store-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-store-starter/demo/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-store-starter/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-store-starter/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-store-starter/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-store-starter/demo/01/"
         }
       ]
     }
@@ -3148,14 +3148,14 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-store-starter/en/demo/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-store-starter/en/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-store-starter/en/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-store-starter/en/demo/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-store-starter/en/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-store-starter/en/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-store-starter/en/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-store-starter/en/demo/01/"
         }
       ]
     }
@@ -3205,14 +3205,14 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-store-starter/cn/demo/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-store-starter/cn/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-store-starter/cn/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-store-starter/cn/demo/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-affiliate-store-starter/cn/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-affiliate-store-starter/cn/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-affiliate-store-starter/cn/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-affiliate-store-starter/cn/demo/01/"
         }
       ]
     }
@@ -3281,44 +3281,44 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/"
         }
       ],
       "demo-00": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/00/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/00/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/00/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/00/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/01/"
         }
       ],
       "demo-02": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/02/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/02/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/02/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/02/"
         }
       ],
       "demo-03": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/03/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/03/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/03/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/03/"
         }
       ],
       "demo-gp": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/gp/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/gp/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/gp/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/gp/"
         }
       ],
       "demo-video": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/demo/video/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/demo/video/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/demo/video/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/demo/video/"
         }
       ]
     }
@@ -3369,26 +3369,26 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/en/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/en/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/en/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/en/demo/"
         }
       ],
       "demo-00": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/en/demo/00/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/en/demo/00/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/en/demo/00/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/en/demo/00/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/en/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/en/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/en/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/en/demo/01/"
         }
       ],
       "demo-02": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/en/demo/02/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/en/demo/02/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/en/demo/02/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/en/demo/02/"
         }
       ]
     }
@@ -3439,20 +3439,20 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/cn/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/cn/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/cn/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/cn/demo/"
         }
       ],
       "demo-00": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/cn/demo/00/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/cn/demo/00/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/cn/demo/00/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/cn/demo/00/"
         }
       ],
       "demo-01": [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-starter/cn/demo/01/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-starter/cn/demo/01/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-starter/cn/demo/01/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-starter/cn/demo/01/"
         }
       ]
     }
@@ -3515,8 +3515,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-video/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-video/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-video/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-video/demo/"
         }
       ]
     }
@@ -3573,8 +3573,8 @@ const services = [
       ],
       demo: [
         {
-          url_external: "https://www.wp-kr.com/auto-money-blog-fb/demo/",
-          url_localhost: "./../../../../wp-kr/auto-money-blog-fb/demo/"
+          url_external: "https://www.wp-kr.com/item/auto-money-blog-fb/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-blog-fb/demo/"
         }
       ]
     }
@@ -4022,12 +4022,6 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/item/auto-importer-store/store/",
           url_localhost: "./../../../../wp-kr/item/auto-importer-store/store/"
-        }
-      ],
-      "store-01": [
-        {
-          url_external: "https://www.wp-kr.com/item/auto-importer-store/store-01/",
-          url_localhost: "./../../../../wp-kr/item/auto-importer-store/store-01/"
         }
       ],
       message: [
