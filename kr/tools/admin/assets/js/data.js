@@ -2389,6 +2389,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-check-ip-info/"
         }
       ],
+      "why-should-avoid-chatroom": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-why-should-avoid-chatroom/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-why-should-avoid-chatroom/"
+        }
+      ],
       clients: [
         {
           url_external: "https://www.wp-kr.com/item/auto-community-starter/clients/",
