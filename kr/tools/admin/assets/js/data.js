@@ -2331,74 +2331,74 @@ const services = [
       ],
       "usage-closed": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-closed/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-closed/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/closed/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/closed/"
         }
       ],
       "why-important": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-why-important/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-why-important/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-important/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-important/"
         }
       ],
       "why-before-startup": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-why-community-before-startup/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-why-community-before-startup/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-community-before-startup/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-community-before-startup/"
         }
       ],
       "why-make-more-money": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-why-make-more-money/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-why-make-more-money/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-make-more-money/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-make-more-money/"
         }
       ],
       "why-make-with-wordpress": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-why-make-with-wordpress/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-why-make-with-wordpress/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-make-with-wordpress/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-make-with-wordpress/"
         }
       ],
       "how-make-money": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-how-make-money/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-how-make-money/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/how-make-money/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/how-make-money/"
         }
       ],
       "required-theme-plugins": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-required-theme-plugins/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-required-theme-plugins/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/required-theme-plugins/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/required-theme-plugins/"
         }
       ],
       "how-make-closed": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-how-make-closed/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-how-make-closed/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/how-make-closed/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/how-make-closed/"
         }
       ],
       "vs-youtube": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-vs-youtube/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-vs-youtube/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/vs-youtube/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/vs-youtube/"
         }
       ],
       "vs-naver-cafe": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-vs-naver-cafe/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-vs-naver-cafe/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/vs-naver-cafe/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/vs-naver-cafe/"
         }
       ],
       "check-ip-info": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-check-ip-info/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-check-ip-info/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/check-ip-info/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/check-ip-info/"
         }
       ],
       "why-should-avoid-chatroom": [
         {
-          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage-why-should-avoid-chatroom/",
-          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage-why-should-avoid-chatroom/"
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-should-avoid-chatroom/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-should-avoid-chatroom/"
         }
       ],
       clients: [
