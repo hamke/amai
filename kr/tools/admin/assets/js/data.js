@@ -2329,6 +2329,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/"
         }
       ],
+      "promotion-types": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/promotion-types/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/promotion-types/"
+        }
+      ],
       "usage-closed": [
         {
           url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/closed/",
