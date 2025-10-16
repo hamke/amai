@@ -491,6 +491,12 @@ const services = [
           url_localhost: "./../../../../homepageasia/kr/usage/good-chinese-websites/"
         }
       ],
+      "webdesign-by-country": [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/webdesign-by-country/",
+          url_localhost: "./../../../../homepageasia/kr/usage/webdesign-by-country/"
+        }
+      ],
       "why-micro-homepage": [
         {
           url_external: "https://www.homepageasia.com/kr/usage/why-micro-homepage/",
