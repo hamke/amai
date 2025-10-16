@@ -2347,6 +2347,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-important/"
         }
       ],
+      "why-community-manager": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-community-manager/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/why-community-manager/"
+        }
+      ],
       "why-before-startup": [
         {
           url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-community-before-startup/",
