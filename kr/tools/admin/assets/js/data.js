@@ -1780,6 +1780,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/agency-school/usage/start-guide/"
         }
       ],
+      "ftp": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/ftp/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/ftp/"
+        }
+      ],
       "must-have": [
         {
           url_external: "https://www.wp-kr.com/agency-school/usage/must-have/",
@@ -1825,6 +1831,18 @@ const services = [
         {
           url_external: "https://www.wp-univ.com/kr/",
           url_localhost: "./../../../../wp-univ/kr/"
+        }
+      ],
+      "usage": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/"
+        }
+      ],
+      "ftp": [
+        {
+          url_external: "https://www.wp-kr.com/agency-school/usage/ftp/",
+          url_localhost: "./../../../../wp-kr/agency-school/usage/ftp/"
         }
       ]
     }
