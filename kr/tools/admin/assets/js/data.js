@@ -1835,14 +1835,14 @@ const services = [
       ],
       "usage": [
         {
-          url_external: "https://www.wp-kr.com/agency-school/usage/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/"
+          url_external: "https://www.wp-univ.com/kr/usage/",
+          url_localhost: "./../../../../wp-univ/kr/usage/"
         }
       ],
       "ftp": [
         {
-          url_external: "https://www.wp-kr.com/agency-school/usage/ftp/",
-          url_localhost: "./../../../../wp-kr/agency-school/usage/ftp/"
+          url_external: "https://www.wp-univ.com/kr/usage/ftp/",
+          url_localhost: "./../../../../wp-univ/kr/usage/ftp/"
         }
       ]
     }
