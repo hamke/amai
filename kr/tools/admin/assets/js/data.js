@@ -3829,6 +3829,59 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // Auto Chat System
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-chat-system",
+    name: "WP Auto Chat System",
+    category: "WP Auto Chat System",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/store/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/usage/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // Auto Importer (Webpage)
   // -------------------------------------------------------
   {
