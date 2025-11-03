@@ -2275,47 +2275,6 @@ const services = [
   },
 
   // -------------------------------------------------------
-  // Auto Importer
-  // -------------------------------------------------------
-  {
-    id: "wp-auto-importer",
-    name: "WP Auto Importer",
-    category: "WP Auto Importer",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/auto-importer/",
-          url_localhost: "./../../../../wp-kr/auto-importer/"
-        }
-      ],
-      store: [
-        {
-          url_external: "https://www.wp-kr.com/auto-importer/store/",
-          url_localhost: "./../../../../wp-kr/auto-importer/store/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/auto-importer/usage/",
-          url_localhost: "./../../../../wp-kr/auto-importer/usage/"
-        }
-      ],
-      types: [
-        {
-          url_external: "https://www.wp-kr.com/auto-importer/usage/types/",
-          url_localhost: "./../../../../wp-kr/auto-importer/usage/types/"
-        }
-      ],
-      demo: [
-        {
-          url_external: "https://www.wp-kr.com/auto-importer/demo/",
-          url_localhost: "./../../../../wp-kr/auto-importer/demo/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
   // Auto Starter (Community)
   // -------------------------------------------------------
   {
@@ -3182,7 +3141,9 @@ const services = [
         }
       ]
     }
-  },  // -------------------------------------------------------
+  },
+  
+  // -------------------------------------------------------
   // Auto Starter (Affiliate Store)
   // -------------------------------------------------------
   {
@@ -3297,7 +3258,8 @@ const services = [
         }
       ]
     }
-  },  // -------------------------------------------------------
+  },
+  // -------------------------------------------------------
   // Auto Starter (Affiliate Store / Chinese(简体))
   // -------------------------------------------------------
   {
@@ -3876,6 +3838,47 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/item/auto-chat-system/demo/",
           url_localhost: "./../../../../wp-kr/item/auto-chat-system/demo/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // Auto Importer
+  // -------------------------------------------------------
+  {
+    id: "wp-auto-importer",
+    name: "WP Auto Importer",
+    category: "WP Auto Importer",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/auto-importer/",
+          url_localhost: "./../../../../wp-kr/auto-importer/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/auto-importer/store/",
+          url_localhost: "./../../../../wp-kr/auto-importer/store/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/auto-importer/usage/",
+          url_localhost: "./../../../../wp-kr/auto-importer/usage/"
+        }
+      ],
+      types: [
+        {
+          url_external: "https://www.wp-kr.com/auto-importer/usage/types/",
+          url_localhost: "./../../../../wp-kr/auto-importer/usage/types/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/auto-importer/demo/",
+          url_localhost: "./../../../../wp-kr/auto-importer/demo/"
         }
       ]
     }
