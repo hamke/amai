@@ -3828,6 +3828,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-chat-system/usage/"
         }
       ],
+      "how-to-monetize": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-chat-system/usage/how-to-monetize/",
+          url_localhost: "./../../../../wp-kr/item/auto-chat-system/usage/how-to-monetize/"
+        }
+      ],
       clients: [
         {
           url_external: "https://www.wp-kr.com/item/auto-chat-system/clients/",
