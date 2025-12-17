@@ -360,6 +360,59 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.esenderchina.com
+  // -------------------------------------------------------
+  {
+    id: "esender",
+    name: "eSender",
+    category: "AutoMoney AI (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.esenderchina.com/kr/",
+          url_localhost: "./../../../../esenderchina/kr/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.esenderchina.com/kr/usage/",
+          url_localhost: "./../../../../esenderchina/kr/usage/"
+        }
+      ],
+      faq: [
+        {
+          url_external: "https://www.esenderchina.com/kr/faq/",
+          url_localhost: "./../../../../esenderchina/kr/faq/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.esenderchina.com/kr/guide/",
+          url_localhost: "./../../../../esenderchina/kr/guide/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.esenderchina.com/kr/payinfo/",
+          url_localhost: "./../../../../esenderchina/kr/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.esenderchina.com/kr/kakao/",
+          url_localhost: "./../../../../esenderchina/kr/kakao/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.esenderchina.com/kr/fb/",
+          url_localhost: "./../../../../esenderchina/kr/fb/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.globaltalk.asia/kr/
   // -------------------------------------------------------
   {
