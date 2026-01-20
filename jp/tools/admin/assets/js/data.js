@@ -76,28 +76,103 @@ const services = [
       main: [
         {
           url_external: "https://www.esenderchina.com/jp/",
-          url_localhost: "./../../../esenderchina/jp/"
+          url_localhost: "./../../../../esenderchina/jp/"
         }
       ],
       usage: [
         {
           url_external: "https://www.esenderchina.com/jp/usage/",
-          url_localhost: "./../../../esenderchina/jp/usage/"
+          url_localhost: "./../../../../esenderchina/jp/usage/"
         }
       ],
       faq: [
         {
           url_external: "https://www.esenderchina.com/jp/faq/",
-          url_localhost: "./../../../esenderchina/jp/faq/"
+          url_localhost: "./../../../../esenderchina/jp/faq/"
         }
       ],
       guide: [
         {
           url_external: "https://www.esenderchina.com/jp/guide/",
-          url_localhost: "./../../../esenderchina/jp/guide/"
+          url_localhost: "./../../../../esenderchina/jp/guide/"
+        }
+      ]
+    }
+  },
+  // -------------------------------------------------------
+  // www.koreatalk.jp
+  // -------------------------------------------------------
+  {
+    id: "koreatalk-jp",
+    name: "コリアトーク (KoreaTalk.jp)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.koreatalk.jp/",
+          url_localhost: "./../../../../koreatalk-jp/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.koreatalk.jp/usage/",
+          url_localhost: "./../../../../koreatalk-jp/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.koreatalk.jp/store/",
+          url_localhost: "./../../../../koreatalk-jp/store/"
+        }
+      ],
+      marketing: [
+        {
+          url_external: "https://www.koreatalk.jp/marketing/",
+          url_localhost: "./../../../../koreatalk-jp/marketing/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.koreatalk.jp/school/",
+          url_localhost: "./../../../../koreatalk-jp/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.koreatalk.jp/data/a/",
+          url_localhost: "./../../../../koreatalk-jp/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.koreatalk.jp/payinfo/",
+          url_localhost: "./../../../../koreatalk-jp/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.koreatalk.jp/kakao/",
+          url_localhost: "./../../../../koreatalk-jp/kakao/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.koreatalk.jp/ig/",
+          url_localhost: "./../../../../koreatalk-jp/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.koreatalk.jp/fb.kr/",
+          url_localhost: "./../../../../koreatalk-jp/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.koreatalk.jp/threads/",
+          url_localhost: "./../../../../koreatalk-jp/threads/"
         }
       ]
     }
   }
 ];
-
