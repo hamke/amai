@@ -99,6 +99,7 @@ const services = [
       ]
     }
   },
+
   // -------------------------------------------------------
   // www.koreatalk.jp
   // -------------------------------------------------------
@@ -163,14 +164,153 @@ const services = [
       ],
       facebook: [
         {
-          url_external: "https://www.koreatalk.jp/fb.kr/",
-          url_localhost: "./../../../../koreatalk-jp/fb.kr/"
+          url_external: "https://www.koreatalk.jp/fb/",
+          url_localhost: "./../../../../koreatalk-jp/fb/"
         }
       ],
       threads: [
         {
           url_external: "https://www.koreatalk.jp/threads/",
           url_localhost: "./../../../../koreatalk-jp/threads/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.wp-data.com
+  // -------------------------------------------------------
+  {
+    id: "wp-data",
+    name: "WP Analytics",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-data.com/jp/",
+          url_localhost: "./../../../../wp-data/public/jp/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-data.com/jp/usage/",
+          url_localhost: "./../../../../wp-data/public/jp/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-data.com/jp/stats/",
+          url_localhost: "./../../../../wp-data/public/jp/stats/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.wpsalenow.com
+  // -------------------------------------------------------
+  {
+    id: "wpsalenow",
+    name: "WP Sale Now",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wpsalenow.com/jp/",
+          url_localhost: "./../../../../wpsalenow/jp/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wpsalenow.com/jp/usage/",
+          url_localhost: "./../../../../wpsalenow/jp/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.wp-viewer.com
+  // -------------------------------------------------------
+  {
+    id: "wp-viewer",
+    name: "WP Viewer",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-viewer.com/jp/",
+          url_localhost: "./../../../../wp-viewer/jp/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-viewer.com/jp/usage/",
+          url_localhost: "./../../../../wp-viewer/jp/usage/"
+        }
+      ],
+      blocked: [
+        {
+          url_external: "https://www.wp-viewer.com/jp/blocked/",
+          url_localhost: "./../../../../wp-viewer/jp/blocked/"
+        }
+      ],
+      reported: [
+        {
+          url_external: "https://www.wp-viewer.com/jp/reported/",
+          url_localhost: "./../../../../wp-viewer/jp/reported/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-viewer.com/jp/stats/",
+          url_localhost: "./../../../../wp-viewer/jp/stats/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.wp-talk.com/app/child-theme-builder
+  // -------------------------------------------------------
+  {
+    id: "wp-talk-child-theme-builder",
+    name: "WP Child Theme Builder",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-talk.com/app/child-theme-builder/",
+          url_localhost: "./../../../../wp-talk/app/child-theme-builder/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-talk.com/app/child-theme-builder/usage/",
+          url_localhost: "./../../../../wp-talk/app/child-theme-builder/usage/"
+        }
+      ],
+      stats: [
+        {
+          url_external: "https://www.wp-talk.com/app/child-theme-builder/stats/",
+          url_localhost: "./../../../../wp-talk/app/child-theme-builder/stats/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // WP-KR Store
+  // -------------------------------------------------------
+  {
+    id: "wp-item-store",
+    name: "WP-ITEM Store",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-item.com/jp/store/",
+          url_localhost: "./../../../../wp-item/jp/store/"
         }
       ]
     }
