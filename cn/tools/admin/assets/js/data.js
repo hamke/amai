@@ -101,6 +101,177 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.globaltalk.asia/cn/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia",
+    name: "GlobalTalkAsia",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/",
+          url_localhost: "./../../../../globaltalkasia/cn/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/kakao/",
+          url_localhost: "./../../../../globaltalkasia/cn/kakao/"
+        }
+      ],
+      marketing: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/marketing/",
+          url_localhost: "./../../../../globaltalkasia/cn/marketing/"
+        }
+      ],
+      youtube: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/yt/",
+          url_localhost: "./../../../../globaltalkasia/cn/yt/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/fb/",
+          url_localhost: "./../../../../globaltalkasia/cn/fb/"
+        }
+      ],
+      blog: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/blog/",
+          url_localhost: "./../../../../globaltalkasia/cn/blog/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/usage/",
+          url_localhost: "./../../../../globaltalkasia/cn/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.globaltalk.asia/cn/service/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia-service",
+    name: "GlobalTalkAsia (Services)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/service/",
+          url_localhost: "./../../../../globaltalkasia/cn/service/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/cn/service/usage/",
+          url_localhost: "./../../../../globaltalkasia/cn/service/usage/"
+        }
+      ],
+      "community-management": [
+        {
+          url_external: "https://www.globaltalk.asia/cn/service/community-management/",
+          url_localhost: "./../../../../globaltalkasia/cn/service/community-management/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.asiatalk.cn
+  // -------------------------------------------------------
+  {
+    id: "asiatalk-cn",
+    name: "亚洲谈 (AsiaTalk)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.asiatalk.cn/",
+          url_localhost: "./../../../../asiatalk-cn/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.asiatalk.cn/usage/",
+          url_localhost: "./../../../../asiatalk-cn/usage/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.asiatalk.cn/store/",
+          url_localhost: "./../../../../asiatalk-cn/store/"
+        }
+      ],
+      marketing: [
+        {
+          url_external: "https://www.asiatalk.cn/marketing/",
+          url_localhost: "./../../../../asiatalk-cn/marketing/"
+        }
+      ],
+      school: [
+        {
+          url_external: "https://www.asiatalk.cn/school/",
+          url_localhost: "./../../../../asiatalk-cn/school/"
+        }
+      ],
+      data: [
+        {
+          url_external: "https://www.asiatalk.cn/data/a/",
+          url_localhost: "./../../../../asiatalk-cn/data/a/"
+        }
+      ],
+      payinfo: [
+        {
+          url_external: "https://www.asiatalk.cn/payinfo/",
+          url_localhost: "./../../../../asiatalk-cn/payinfo/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.asiatalk.cn/kakao/",
+          url_localhost: "./../../../../asiatalk-cn/kakao/"
+        }
+      ],
+      youtube: [
+        {
+          url_external: "https://www.asiatalk.cn/yt/",
+          url_localhost: "./../../../../asiatalk-cn/yt/"
+        }
+      ],
+      instagram: [
+        {
+          url_external: "https://www.asiatalk.cn/ig/",
+          url_localhost: "./../../../../asiatalk-cn/ig/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.asiatalk.cn/fb.kr/",
+          url_localhost: "./../../../../asiatalk-cn/fb.kr/"
+        }
+      ],
+      threads: [
+        {
+          url_external: "https://www.asiatalk.cn/threads/",
+          url_localhost: "./../../../../asiatalk-cn/threads/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.asiatalk.cn/naver-blog/",
+          url_localhost: "./../../../../asiatalk-cn/naver-blog/"
+        }
+      ],
+    }
+  },
+
+  // -------------------------------------------------------
   // www.wp-data.com
   // -------------------------------------------------------
   {

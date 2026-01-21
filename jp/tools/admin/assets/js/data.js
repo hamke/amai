@@ -101,6 +101,88 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.globaltalk.asia/jp/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia",
+    name: "グローバルトークアジア",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/",
+          url_localhost: "./../../../../globaltalkasia/jp/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/kakao/",
+          url_localhost: "./../../../../globaltalkasia/jp/kakao/"
+        }
+      ],
+      marketing: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/marketing/",
+          url_localhost: "./../../../../globaltalkasia/jp/marketing/"
+        }
+      ],
+      youtube: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/yt/",
+          url_localhost: "./../../../../globaltalkasia/jp/yt/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/fb/",
+          url_localhost: "./../../../../globaltalkasia/jp/fb/"
+        }
+      ],
+      blog: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/blog/",
+          url_localhost: "./../../../../globaltalkasia/jp/blog/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/usage/",
+          url_localhost: "./../../../../globaltalkasia/jp/usage/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
+  // www.globaltalk.asia/jp/service/
+  // -------------------------------------------------------
+  {
+    id: "globaltalkasia-service",
+    name: "グローバルトークアジア (Services)",
+    category: "GlobalTalkAsia",
+    links: {
+      main: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/service/",
+          url_localhost: "./../../../../globaltalkasia/jp/service/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.globaltalk.asia/jp/service/usage/",
+          url_localhost: "./../../../../globaltalkasia/jp/service/usage/"
+        }
+      ],
+      "community-management": [
+        {
+          url_external: "https://www.globaltalk.asia/jp/service/community-management/",
+          url_localhost: "./../../../../globaltalkasia/jp/service/community-management/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.koreatalk.jp
   // -------------------------------------------------------
   {
