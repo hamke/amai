@@ -1484,6 +1484,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/usage/"
         }
       ],
+      payinfo: [
+        {
+          url_external: "https://www.wp-kr.com/payinfo/",
+          url_localhost: "./../../../../wp-kr/payinfo/"
+        }
+      ],
       "clients-what-to-do": [
         {
           url_external: "https://www.wp-kr.com/usage/clients-what-to-do/",
