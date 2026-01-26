@@ -878,6 +878,12 @@ const services = [
           url_localhost: "./../../../../japantalk/usage/"
         }
       ],
+      "usage-jp": [
+        {
+          url_external: "https://www.japantalk.net/usage/jp/",
+          url_localhost: "./../../../../japantalk/usage/jp/"
+        }
+      ],
       store: [
         {
           url_external: "https://www.japantalk.net/store/",
