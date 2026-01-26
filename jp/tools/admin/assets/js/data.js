@@ -202,6 +202,12 @@ const services = [
           url_localhost: "./../../../../koreatalk-jp/usage/"
         }
       ],
+      "usage-kr": [
+        {
+          url_external: "https://www.koreatalk.jp/usage/kr/",
+          url_localhost: "./../../../../koreatalk-jp/usage/kr/"
+        }
+      ],
       store: [
         {
           url_external: "https://www.koreatalk.jp/store/",
