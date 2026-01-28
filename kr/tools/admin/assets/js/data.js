@@ -417,37 +417,61 @@ const services = [
   // -------------------------------------------------------
   {
     id: "homepageasia",
-    name: "HomePageAsia",
+    name: "홈페이지아시아(HomePageAsia)",
     category: "HomePageAsia",
     links: {
       main: [
         {
-          url_external: "https://www.homepageasia.com/jp/",
-          url_localhost: "./../../../../homepageasia/jp/"
+          url_external: "https://www.homepageasia.com/kr/",
+          url_localhost: "./../../../../homepageasia/kr/"
         }
       ],
       mobile: [
         {
-          url_external: "https://www.homepageasia.com/jp/mobile/",
-          url_localhost: "./../../../../homepageasia/jp/mobile/"
+          url_external: "https://www.homepageasia.com/kr/mobile/",
+          url_localhost: "./../../../../homepageasia/kr/mobile/"
+        }
+      ],
+      kakao: [
+        {
+          url_external: "https://www.homepageasia.com/kr/kakao/",
+          url_localhost: "./../../../../homepageasia/kr/kakao/"
         }
       ],
       facebook: [
         {
-          url_external: "https://www.homepageasia.com/jp/fb/",
-          url_localhost: "./../../../../homepageasia/jp/fb/"
+          url_external: "https://www.homepageasia.com/kr/fb/",
+          url_localhost: "./../../../../homepageasia/kr/fb/"
         }
       ],
       demo: [
         {
-          url_external: "https://www.homepageasia.com/jp/demo/",
-          url_localhost: "./../../../../homepageasia/jp/demo/"
+          url_external: "https://www.homepageasia.com/kr/demo/",
+          url_localhost: "./../../../../homepageasia/kr/demo/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.homepageasia.com/jp/usage/",
-          url_localhost: "./../../../../homepageasia/jp/usage/"
+          url_external: "https://www.homepageasia.com/kr/usage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/"
+        }
+      ],
+      "webdesign-by-country": [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/webdesign-by-country/",
+          url_localhost: "./../../../../homepageasia/kr/usage/webdesign-by-country/"
+        }
+      ],
+      "good-chinese-websites": [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/good-chinese-websites/",
+          url_localhost: "./../../../../homepageasia/kr/usage/good-chinese-websites/"
+        }
+      ],
+      "why-micro-homepage": [
+        {
+          url_external: "https://www.homepageasia.com/kr/usage/why-micro-homepage/",
+          url_localhost: "./../../../../homepageasia/kr/usage/why-micro-homepage/"
         }
       ]
     }
@@ -458,43 +482,43 @@ const services = [
   // -------------------------------------------------------
   {
     id: "homepageasia-viewer",
-    name: "HomePageAsia (Viewer)",
+    name: "홈페이지아시아(HomePageAsia/Viewer)",
     category: "HomePageAsia",
     links: {
       main: [
         {
-          url_external: "https://www.homepageasia.com/jp/viewer/",
-          url_localhost: "./../../../../homepageasia/jp/viewer/"
+          url_external: "https://www.homepageasia.com/kr/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/"
         }
       ],
       mobile: [
         {
-          url_external: "https://www.homepageasia.com/jp/mobile/viewer/",
-          url_localhost: "./../../../../homepageasia/jp/mobile/viewer/"
+          url_external: "https://www.homepageasia.com/kr/mobile/viewer/",
+          url_localhost: "./../../../../homepageasia/kr/mobile/viewer/"
         }
       ],
       usage: [
         {
-          url_external: "https://www.homepageasia.com/jp/viewer/usage/",
-          url_localhost: "./../../../../homepageasia/jp/viewer/usage/"
+          url_external: "https://www.homepageasia.com/kr/viewer/usage/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/usage/"
         }
       ],
       blocked: [
         {
-          url_external: "https://www.homepageasia.com/jp/viewer/blocked/",
-          url_localhost: "./../../../../homepageasia/jp/viewer/blocked/"
+          url_external: "https://www.homepageasia.com/kr/viewer/blocked/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/blocked/"
         }
       ],
       reported: [
         {
-          url_external: "https://www.homepageasia.com/jp/viewer/reported/",
-          url_localhost: "./../../../../homepageasia/jp/viewer/reported/"
+          url_external: "https://www.homepageasia.com/kr/viewer/reported/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/reported/"
         }
       ],
       stats: [
         {
-          url_external: "https://www.homepageasia.com/jp/viewer/stats/",
-          url_localhost: "./../../../../homepageasia/jp/viewer/stats/"
+          url_external: "https://www.homepageasia.com/kr/viewer/stats/",
+          url_localhost: "./../../../../homepageasia/kr/viewer/stats/"
         }
       ]
     }
