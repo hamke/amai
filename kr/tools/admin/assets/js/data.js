@@ -651,6 +651,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/"
         }
       ],
+      blog: [
+        {
+          url_external: "https://www.wp-kr.com/news/",
+          url_localhost: "./../../../../wp-kr/news/"
+        }
+      ],
       usage: [
         {
           url_external: "https://www.wp-kr.com/usage/",
