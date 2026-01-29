@@ -642,7 +642,7 @@ const services = [
   // -------------------------------------------------------
   {
     id: "wp-kr",
-    name: "WP AI Korea",
+    name: "WP-KR.COM",
     category: "WP Services (Basic)",
     links: {
       main: [
@@ -657,10 +657,64 @@ const services = [
           url_localhost: "./../../../../wp-kr/usage/"
         }
       ],
+      kakao: [
+        {
+          url_external: "https://www.wp-kr.com/kakao/",
+          url_localhost: "./../../../../wp-kr/kakao/"
+        }
+      ],
+      kakaochat: [
+        {
+          url_external: "https://www.wp-kr.com/app/kakaochat/",
+          url_localhost: "./../../../../wp-kr/app/kakaochat/"
+        }
+      ],
+      "kakaochat-stats": [
+        {
+          url_external: "https://www.wp-kr.com/app/kakaochat/stats/",
+          url_localhost: "./../../../../wp-kr/app/kakaochat/stats/"
+        }
+      ],
+      facebook: [
+        {
+          url_external: "https://www.wp-kr.com/fb/",
+          url_localhost: "./../../../../wp-kr/fb/"
+        }
+      ],
+      "naver-blog": [
+        {
+          url_external: "https://www.wp-kr.com/naver-blog/",
+          url_localhost: "./../../../../wp-kr/naver-blog/"
+        }
+      ],
+      "naver-cafe": [
+        {
+          url_external: "https://www.wp-kr.com/naver-cafe/",
+          url_localhost: "./../../../../wp-kr/naver-cafe/"
+        }
+      ],
+      youtube: [
+        {
+          url_external: "https://www.wp-kr.com/youtube/",
+          url_localhost: "./../../../../wp-kr/youtube/"
+        }
+      ],
+      "domain-check": [
+        {
+          url_external: "https://www.wp-kr.com/domain-check/",
+          url_localhost: "./../../../../wp-kr/domain-check/"
+        }
+      ],
       payinfo: [
         {
           url_external: "https://www.wp-kr.com/payinfo/",
           url_localhost: "./../../../../wp-kr/payinfo/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/clients/",
+          url_localhost: "./../../../../wp-kr/clients/"
         }
       ],
       "clients-what-to-do": [
@@ -696,6 +750,18 @@ const services = [
         {
           url_external: "https://www.wp-data.com/kr/stats/",
           url_localhost: "./../../../../wp-data/public/kr/stats/"
+        }
+      ],
+      submit: [
+        {
+          url_external: "https://www.wp-data.com/data/submit.json",
+          url_localhost: "./../../../../wp-data/public/data/submit.json"
+        }
+      ],
+      agency: [
+        {
+          url_external: "https://www.wp-data.com/kr/admin/agency/",
+          url_localhost: "./../../../../wp-data/public/kr/admin/agency/"
         }
       ]
     }
@@ -853,75 +919,6 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/auto-money-system/site-setup-cafe24/",
           url_localhost: "./../../../../wp-kr/auto-money-system/site-setup-cafe24/"
-        }
-      ]
-    }
-  },
-  
-  // -------------------------------------------------------
-  // www.wp-kr.com/app/kakaochat/
-  // -------------------------------------------------------
-  {
-    id: "wp-kr-kakaochat",
-    name: "WP-KR (KakaoChat)",
-    category: "WP Services (Basic)",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/app/kakaochat/",
-          url_localhost: "./../../../../wp-kr/app/kakaochat/"
-        }
-      ],
-      usage: [
-        {
-          url_external: "https://www.wp-kr.com/app/kakaochat/usage/",
-          url_localhost: "./../../../../wp-kr/app/kakaochat/usage/"
-        }
-      ],
-      stats: [
-        {
-          url_external: "https://www.wp-kr.com/app/kakaochat/stats/",
-          url_localhost: "./../../../../wp-kr/app/kakaochat/stats/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.wp-kr.com/payinfo/
-  // -------------------------------------------------------
-  {
-    id: "wp-kr-payinfo",
-    name: "WP-KR (Payinfo)",
-    category: "WP Services (Basic)",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/payinfo/",
-          url_localhost: "./../../../../wp-kr/payinfo/"
-        }
-      ],
-      toss: [
-        {
-          url_external: "https://www.wp-kr.com/payinfo/toss/",
-          url_localhost: "./../../../../wp-kr/payinfo/toss/"
-        }
-      ]
-    }
-  },
-
-  // -------------------------------------------------------
-  // www.wp-kr.com/clients/
-  // -------------------------------------------------------
-  {
-    id: "wp-kr-clients",
-    name: "WP-KR (Clients)",
-    category: "WP Services (Basic)",
-    links: {
-      main: [
-        {
-          url_external: "https://www.wp-kr.com/clients/",
-          url_localhost: "./../../../../wp-kr/clients/"
         }
       ]
     }

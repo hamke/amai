@@ -189,6 +189,23 @@ const services = [
   },
 
   // -------------------------------------------------------
+  // www.wp-talk.com
+  // -------------------------------------------------------
+  {
+    id: "wp-talk",
+    name: "WP-Talk",
+    category: "WP Services (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-talk.com/zh/",
+          url_localhost: "./../../../../wp-talk/zh/"
+        }
+      ]
+    }
+  },
+
+  // -------------------------------------------------------
   // www.wp-data.com
   // -------------------------------------------------------
   {
@@ -212,6 +229,18 @@ const services = [
         {
           url_external: "https://www.wp-data.com/zh/stats/",
           url_localhost: "./../../../../wp-data/public/zh/stats/"
+        }
+      ],
+      submit: [
+        {
+          url_external: "https://www.wp-data.com/data/submit.json",
+          url_localhost: "./../../../../wp-data/public/data/submit.json"
+        }
+      ],
+      agency: [
+        {
+          url_external: "https://www.wp-data.com/zh/admin/agency/",
+          url_localhost: "./../../../../wp-data/public/zh/admin/agency/"
         }
       ]
     }
