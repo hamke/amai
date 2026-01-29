@@ -651,16 +651,16 @@ const services = [
           url_localhost: "./../../../../wp-kr/"
         }
       ],
-      blog: [
+      news: [
         {
           url_external: "https://www.wp-kr.com/news/",
           url_localhost: "./../../../../wp-kr/news/"
         }
       ],
-      usage: [
+      "news-stats": [
         {
-          url_external: "https://www.wp-kr.com/usage/",
-          url_localhost: "./../../../../wp-kr/usage/"
+          url_external: "https://news.wp-kr.com/stats/",
+          url_localhost: "./../../../../wp-kr-news/public/stats/"
         }
       ],
       kakao: [
@@ -705,12 +705,6 @@ const services = [
           url_localhost: "./../../../../wp-kr/youtube/"
         }
       ],
-      "domain-check": [
-        {
-          url_external: "https://www.wp-kr.com/domain-check/",
-          url_localhost: "./../../../../wp-kr/domain-check/"
-        }
-      ],
       payinfo: [
         {
           url_external: "https://www.wp-kr.com/payinfo/",
@@ -721,6 +715,18 @@ const services = [
         {
           url_external: "https://www.wp-kr.com/clients/",
           url_localhost: "./../../../../wp-kr/clients/"
+        }
+      ],
+      "domain-check": [
+        {
+          url_external: "https://www.wp-kr.com/domain-check/",
+          url_localhost: "./../../../../wp-kr/domain-check/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/usage/",
+          url_localhost: "./../../../../wp-kr/usage/"
         }
       ],
       "clients-what-to-do": [
