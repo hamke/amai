@@ -4041,6 +4041,12 @@ const services = [
           url_external: "https://www.wp-kr.com/item/auto-main-page/demo/",
           url_localhost: "./../../../../wp-kr/item/auto-main-page/demo/"
         }
+      ],
+      "demo-html": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-main-page/demo/html/",
+          url_localhost: "./../../../../wp-kr/item/auto-main-page/demo/html/"
+        }
       ]
     }
   },
