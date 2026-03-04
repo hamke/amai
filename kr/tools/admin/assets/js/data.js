@@ -1631,6 +1631,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/check-ip-info/"
         }
       ],
+      "bitly": [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/bitly/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter/usage/bitly/"
+        }
+      ],
       "why-should-avoid-chatroom": [
         {
           url_external: "https://www.wp-kr.com/item/auto-community-starter/usage/why-should-avoid-chatroom/",
