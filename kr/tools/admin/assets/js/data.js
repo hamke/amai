@@ -4782,6 +4782,32 @@ const services = [
   // WP Plugins (Basic)
   // -------------------------------------------------------
   {
+    id: "wp-auto-money-system-manager",
+    name: "WP Auto Money System Manager",
+    category: "WP Plugins (Basic)",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-system-manager/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-system-manager/"
+        }
+      ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-system-manager/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-system-manager/download/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-money-system-manager/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-money-system-manager/guide/"
+        }
+      ]
+    }
+  },
+
+  {
     id: "wp-auto-system-starter",
     name: "WP Auto System Starter",
     category: "WP Plugins (Basic)",
