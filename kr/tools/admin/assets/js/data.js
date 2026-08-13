@@ -1698,6 +1698,12 @@ const services = [
           url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/message/"
         }
       ],
+      download: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/download/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/download/"
+        }
+      ],
       guide: [
         {
           url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/guide/",
