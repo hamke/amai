@@ -1675,6 +1675,55 @@ const services = [
       ]
     }
   },
+  {
+    id: "wp-auto-community-starter-advertiser",
+    name: "WP Auto Community Starter (Advertiser Manager)",
+    category: "WP Auto Money Website",
+    links: {
+      main: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/"
+        }
+      ],
+      store: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/store/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/store/"
+        }
+      ],
+      message: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/message/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/message/"
+        }
+      ],
+      guide: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/guide/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/guide/"
+        }
+      ],
+      usage: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/usage/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/usage/"
+        }
+      ],
+      clients: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/clients/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/clients/"
+        }
+      ],
+      demo: [
+        {
+          url_external: "https://www.wp-kr.com/item/auto-community-starter-advertiser/demo/",
+          url_localhost: "./../../../../wp-kr/item/auto-community-starter-advertiser/demo/"
+        }
+      ]
+    }
+  },
   // -------------------------------------------------------
   // Auto Starter (Academy)
   // -------------------------------------------------------
